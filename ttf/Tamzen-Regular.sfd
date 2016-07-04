@@ -1,0 +1,4444 @@
+SplineFontDB: 3.0
+FontName: TamzenMedium
+FullName: Tamzen Medium
+FamilyName: Tamzen
+Weight: Medium
+Copyright: (c) 2015 Scott Fial
+UComments: "2016-7-4: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 777
+Descent: 223
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 838 -1428814369 11676059]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1467666941
+ModificationTime: 1467666941
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: 9
+AntiAlias: 1
+FitToEm: 0
+OnlyBitmaps: 1
+BeginChars: 65536 190
+
+StartChar: U+2592
+Encoding: 9618 9618 0
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00B0
+Encoding: 176 176 1
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2518
+Encoding: 9496 9496 2
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2510
+Encoding: 9488 9488 3
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+250C
+Encoding: 9484 9484 4
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2514
+Encoding: 9492 9492 5
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+253C
+Encoding: 9532 9532 6
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2500
+Encoding: 9472 9472 7
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+251C
+Encoding: 9500 9500 8
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2524
+Encoding: 9508 9508 9
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2534
+Encoding: 9524 9524 10
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+252C
+Encoding: 9516 9516 11
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+2502
+Encoding: 9474 9474 12
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A3
+Encoding: 163 163 13
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0020
+Encoding: 32 32 14
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0021
+Encoding: 33 33 15
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0022
+Encoding: 34 34 16
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0023
+Encoding: 35 35 17
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0024
+Encoding: 36 36 18
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0025
+Encoding: 37 37 19
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0026
+Encoding: 38 38 20
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0027
+Encoding: 39 39 21
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0028
+Encoding: 40 40 22
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0029
+Encoding: 41 41 23
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002A
+Encoding: 42 42 24
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002B
+Encoding: 43 43 25
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002C
+Encoding: 44 44 26
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002D
+Encoding: 45 45 27
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002E
+Encoding: 46 46 28
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+002F
+Encoding: 47 47 29
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0030
+Encoding: 48 48 30
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0031
+Encoding: 49 49 31
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0032
+Encoding: 50 50 32
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0033
+Encoding: 51 51 33
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0034
+Encoding: 52 52 34
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0035
+Encoding: 53 53 35
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0036
+Encoding: 54 54 36
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0037
+Encoding: 55 55 37
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0038
+Encoding: 56 56 38
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0039
+Encoding: 57 57 39
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003A
+Encoding: 58 58 40
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003B
+Encoding: 59 59 41
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003C
+Encoding: 60 60 42
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003D
+Encoding: 61 61 43
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003E
+Encoding: 62 62 44
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+003F
+Encoding: 63 63 45
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0040
+Encoding: 64 64 46
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0041
+Encoding: 65 65 47
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0042
+Encoding: 66 66 48
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0043
+Encoding: 67 67 49
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0044
+Encoding: 68 68 50
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0045
+Encoding: 69 69 51
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0046
+Encoding: 70 70 52
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0047
+Encoding: 71 71 53
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0048
+Encoding: 72 72 54
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0049
+Encoding: 73 73 55
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004A
+Encoding: 74 74 56
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004B
+Encoding: 75 75 57
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004C
+Encoding: 76 76 58
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004D
+Encoding: 77 77 59
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004E
+Encoding: 78 78 60
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+004F
+Encoding: 79 79 61
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0050
+Encoding: 80 80 62
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0051
+Encoding: 81 81 63
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0052
+Encoding: 82 82 64
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0053
+Encoding: 83 83 65
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0054
+Encoding: 84 84 66
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0055
+Encoding: 85 85 67
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0056
+Encoding: 86 86 68
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0057
+Encoding: 87 87 69
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0058
+Encoding: 88 88 70
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0059
+Encoding: 89 89 71
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005A
+Encoding: 90 90 72
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005B
+Encoding: 91 91 73
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005C
+Encoding: 92 92 74
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005D
+Encoding: 93 93 75
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005E
+Encoding: 94 94 76
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+005F
+Encoding: 95 95 77
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0060
+Encoding: 96 96 78
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0061
+Encoding: 97 97 79
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0062
+Encoding: 98 98 80
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0063
+Encoding: 99 99 81
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0064
+Encoding: 100 100 82
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0065
+Encoding: 101 101 83
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0066
+Encoding: 102 102 84
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0067
+Encoding: 103 103 85
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0068
+Encoding: 104 104 86
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0069
+Encoding: 105 105 87
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006A
+Encoding: 106 106 88
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006B
+Encoding: 107 107 89
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006C
+Encoding: 108 108 90
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006D
+Encoding: 109 109 91
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006E
+Encoding: 110 110 92
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+006F
+Encoding: 111 111 93
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0070
+Encoding: 112 112 94
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0071
+Encoding: 113 113 95
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0072
+Encoding: 114 114 96
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0073
+Encoding: 115 115 97
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0074
+Encoding: 116 116 98
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0075
+Encoding: 117 117 99
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0076
+Encoding: 118 118 100
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0077
+Encoding: 119 119 101
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0078
+Encoding: 120 120 102
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0079
+Encoding: 121 121 103
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+007A
+Encoding: 122 122 104
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+007B
+Encoding: 123 123 105
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+007C
+Encoding: 124 124 106
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+007D
+Encoding: 125 125 107
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+007E
+Encoding: 126 126 108
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A0
+Encoding: 160 160 109
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A1
+Encoding: 161 161 110
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A2
+Encoding: 162 162 111
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A3
+Encoding: 163 163 112
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A4
+Encoding: 164 164 113
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A5
+Encoding: 165 165 114
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A6
+Encoding: 166 166 115
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A8
+Encoding: 168 168 116
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00A9
+Encoding: 169 169 117
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00AB
+Encoding: 171 171 118
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00AD
+Encoding: 173 173 119
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00B0
+Encoding: 176 176 120
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00B4
+Encoding: 180 180 121
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00B8
+Encoding: 184 184 122
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00BB
+Encoding: 187 187 123
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00BF
+Encoding: 191 191 124
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C0
+Encoding: 192 192 125
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C1
+Encoding: 193 193 126
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C2
+Encoding: 194 194 127
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C3
+Encoding: 195 195 128
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C4
+Encoding: 196 196 129
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C5
+Encoding: 197 197 130
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C6
+Encoding: 198 198 131
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C7
+Encoding: 199 199 132
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C8
+Encoding: 200 200 133
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00C9
+Encoding: 201 201 134
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CA
+Encoding: 202 202 135
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CB
+Encoding: 203 203 136
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CC
+Encoding: 204 204 137
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CD
+Encoding: 205 205 138
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CE
+Encoding: 206 206 139
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00CF
+Encoding: 207 207 140
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D0
+Encoding: 208 208 141
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D1
+Encoding: 209 209 142
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D2
+Encoding: 210 210 143
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D3
+Encoding: 211 211 144
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D4
+Encoding: 212 212 145
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D5
+Encoding: 213 213 146
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D6
+Encoding: 214 214 147
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D7
+Encoding: 215 215 148
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D8
+Encoding: 216 216 149
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00D9
+Encoding: 217 217 150
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DA
+Encoding: 218 218 151
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DB
+Encoding: 219 219 152
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DC
+Encoding: 220 220 153
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DD
+Encoding: 221 221 154
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DE
+Encoding: 222 222 155
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00DF
+Encoding: 223 223 156
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E0
+Encoding: 224 224 157
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E1
+Encoding: 225 225 158
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E2
+Encoding: 226 226 159
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E3
+Encoding: 227 227 160
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E4
+Encoding: 228 228 161
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E5
+Encoding: 229 229 162
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E6
+Encoding: 230 230 163
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E7
+Encoding: 231 231 164
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E8
+Encoding: 232 232 165
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00E9
+Encoding: 233 233 166
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00EA
+Encoding: 234 234 167
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00EB
+Encoding: 235 235 168
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00EC
+Encoding: 236 236 169
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00ED
+Encoding: 237 237 170
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00EE
+Encoding: 238 238 171
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00EF
+Encoding: 239 239 172
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F0
+Encoding: 240 240 173
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F1
+Encoding: 241 241 174
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F2
+Encoding: 242 242 175
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F3
+Encoding: 243 243 176
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F4
+Encoding: 244 244 177
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F5
+Encoding: 245 245 178
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F6
+Encoding: 246 246 179
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F7
+Encoding: 247 247 180
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F8
+Encoding: 248 248 181
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00F9
+Encoding: 249 249 182
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FA
+Encoding: 250 250 183
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FB
+Encoding: 251 251 184
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FC
+Encoding: 252 252 185
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FD
+Encoding: 253 253 186
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FE
+Encoding: 254 254 187
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+00FF
+Encoding: 255 255 188
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: U+0000
+Encoding: 0 0 189
+Width: 392
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+EndChars
+BitmapFont: 9 190 7 2 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--9-65-100-100-C-50-ISO8859-1"
+SIZE 1 "9 100 100"
+FONTBOUNDINGBOX 1 "5 9 0 -2"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 9
+POINT_SIZE 18 65
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 50
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 5
+X_HEIGHT 18 4
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 5
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 2
+FONT_ASCENT 18 7
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 5 0 4 -2 6
+:oI3h:oI3h:]LIq
+BDFChar: 1 7 5 0 4 -2 6
+!!$Dg?iU0,z
+BDFChar: 2 11 5 0 4 -2 6
++<VdLhuE`Wz
+BDFChar: 3 12 5 0 4 -2 6
+zi#j-b+92BA
+BDFChar: 4 13 5 0 4 -2 6
+z3$9=d+92BA
+BDFChar: 5 14 5 0 4 -2 6
++<VdL2uipYz
+BDFChar: 6 15 5 0 4 -2 6
++<VdLp`L\%+92BA
+BDFChar: 7 18 5 0 4 -2 6
+zp](9oz
+BDFChar: 8 21 5 0 4 -2 6
++<VdL3$9=d+92BA
+BDFChar: 9 22 5 0 4 -2 6
++<VdLi#j-b+92BA
+BDFChar: 10 23 5 0 4 -2 6
++<VdLp](9oz
+BDFChar: 11 24 5 0 4 -2 6
+zp`L\%+92BA
+BDFChar: 12 25 5 0 4 -2 6
++<VdL+<VdL+92BA
+BDFChar: 13 30 5 0 4 -2 6
+!&-[r5X=f=z
+BDFChar: 14 32 5 0 4 -2 6
+zzz
+BDFChar: 15 33 5 0 4 -2 6
+!'ie75QF%Lz
+BDFChar: 16 34 5 0 4 -2 6
+!)QKgzz
+BDFChar: 17 35 5 0 4 -2 6
+!)W/]T^\TSz
+BDFChar: 18 36 5 0 4 -2 6
+!$H62?kD6]z
+BDFChar: 19 37 5 0 4 -2 6
+!5Qr(5d2pBz
+BDFChar: 20 38 5 0 4 -2 6
+!+;HbYb9>Cz
+BDFChar: 21 39 5 0 4 -2 6
+!$EC,zz
+BDFChar: 22 40 5 0 4 -2 6
+!"^8<5X7RW&-)\1
+BDFChar: 23 41 5 0 4 -2 6
+!.[<W+<VdlJ,fQL
+BDFChar: 24 42 5 0 4 -2 6
+!!"/2@#t?gz
+BDFChar: 25 43 5 0 4 -2 6
+!!",ap`L[Zz
+BDFChar: 26 44 5 0 4 -2 6
+z!!$CL5QCca
+BDFChar: 27 45 5 0 4 -2 6
+zn,NFgz
+BDFChar: 28 46 5 0 4 -2 6
+z!!$C,z
+BDFChar: 29 47 5 0 4 -2 6
+!!",a5X9jMz
+BDFChar: 30 48 5 0 4 -2 6
+!!$DgOH<iMz
+BDFChar: 31 49 5 0 4 -2 6
+!!"-L+<YV'z
+BDFChar: 32 50 5 0 4 -2 6
+!!(pg+@,Drz
+BDFChar: 33 51 5 0 4 -2 6
+!!)L2?kD5rz
+BDFChar: 34 52 5 0 4 -2 6
+!!"-LT^X'(z
+BDFChar: 35 53 5 0 4 -2 6
+!!)M=i"4fHz
+BDFChar: 36 54 5 0 4 -2 6
+!!$DWi/h=Hz
+BDFChar: 37 55 5 0 4 -2 6
+!!)L2+@&0lz
+BDFChar: 38 56 5 0 4 -2 6
+!!$Dg@$"arz
+BDFChar: 39 57 5 0 4 -2 6
+!!$DgE"HCWz
+BDFChar: 40 58 5 0 4 -2 6
+!!!",!!$C,z
+BDFChar: 41 59 5 0 4 -2 6
+!!!",!!$CL5QCca
+BDFChar: 42 60 5 0 4 -2 6
+!!!QQ5TgU<z
+BDFChar: 43 61 5 0 4 -2 6
+!!!#g!:Tsgz
+BDFChar: 44 62 5 0 4 -2 6
+!!#8,&0O4<z
+BDFChar: 45 63 5 0 4 -2 6
+!8nD25QF%Lz
+BDFChar: 46 64 5 0 4 -2 6
+!+:nmY^h7Cz
+BDFChar: 47 65 5 0 4 -2 6
+!!$Dgn;r_3z
+BDFChar: 48 66 5 0 4 -2 6
+!!(r=i/ljsz
+BDFChar: 49 67 5 0 4 -2 6
+!!$tgJ:MS=z
+BDFChar: 50 68 5 0 4 -2 6
+!!(r=OHAB#z
+BDFChar: 51 69 5 0 4 -2 6
+!!)M=i.1:sz
+BDFChar: 52 70 5 0 4 -2 6
+!!)M=i.-=Xz
+BDFChar: 53 71 5 0 4 -2 6
+!!$tgY`Nf(z
+BDFChar: 54 72 5 0 4 -2 6
+!!&+Bn;r_3z
+BDFChar: 55 73 5 0 4 -2 6
+!!$s\+<YV'z
+BDFChar: 56 74 5 0 4 -2 6
+!!!QA&<L9"z
+BDFChar: 57 75 5 0 4 -2 6
+!!&+R^n?bhz
+BDFChar: 58 76 5 0 4 -2 6
+!!%P"J:R+hz
+BDFChar: 59 77 5 0 4 -2 6
+!!&,MOH>P(z
+BDFChar: 60 78 5 0 4 -2 6
+!!&,-Y`OqHz
+BDFChar: 61 79 5 0 4 -2 6
+!!$DgOH<iMz
+BDFChar: 62 80 5 0 4 -2 6
+!!(r=i.-=Xz
+BDFChar: 63 81 5 0 4 -2 6
+!!$DgOH<j(z
+BDFChar: 64 82 5 0 4 -2 6
+!!(r=i1Q/3z
+BDFChar: 65 83 5 0 4 -2 6
+!!$tg?kD5rz
+BDFChar: 66 84 5 0 4 -2 6
+!!)d:+<Vd,z
+BDFChar: 67 85 5 0 4 -2 6
+!!&+BOH=D]z
+BDFChar: 68 86 5 0 4 -2 6
+!!&+BOC2Grz
+BDFChar: 69 87 5 0 4 -2 6
+!!&+BORS>3z
+BDFChar: 70 88 5 0 4 -2 6
+!!&+B@$$HMz
+BDFChar: 71 89 5 0 4 -2 6
+!!%gO+<Vd,z
+BDFChar: 72 90 5 0 4 -2 6
+!!)L25_/>(z
+BDFChar: 73 91 5 0 4 -2 6
+!,t1g5X7S"Du]k<
+BDFChar: 74 92 5 0 4 -2 6
+!!%P"5X6G7z
+BDFChar: 75 93 5 0 4 -2 6
+!8ntB+<VdLhuE`W
+BDFChar: 76 94 5 0 4 -2 6
+!!"-<zz
+BDFChar: 77 95 5 0 4 -2 6
+z!!!#oz
+BDFChar: 78 96 5 0 4 -2 6
+!'hY<zz
+BDFChar: 79 97 5 0 4 -2 6
+!!!"<OH=D]z
+BDFChar: 80 98 5 0 4 -2 6
+!.]UXOHAB#z
+BDFChar: 81 99 5 0 4 -2 6
+!!!",J:M#-z
+BDFChar: 82 100 5 0 4 -2 6
+!"]]\OH=D]z
+BDFChar: 83 101 5 0 4 -2 6
+!!!"<TYPLHz
+BDFChar: 84 102 5 0 4 -2 6
+!&-\-5X7R7z
+BDFChar: 85 103 5 0 4 -2 6
+!!!"<OH=Dm?iU0,
+BDFChar: 86 104 5 0 4 -2 6
+!.]UXOH>P(z
+BDFChar: 87 105 5 0 4 -2 6
+!$D8L+<YV'z
+BDFChar: 88 106 5 0 4 -2 6
+!$D8L+<VdL^]4?7
+BDFChar: 89 107 5 0 4 -2 6
+!.]Tm^n?bhz
+BDFChar: 90 108 5 0 4 -2 6
+!+6ol+<YV'z
+BDFChar: 91 109 5 0 4 -2 6
+!!!#'n;r_3z
+BDFChar: 92 110 5 0 4 -2 6
+!!!#WOH>P(z
+BDFChar: 93 111 5 0 4 -2 6
+!!!",OH<iMz
+BDFChar: 94 112 5 0 4 -2 6
+!!!#WOHACNJ,fQL
+BDFChar: 95 113 5 0 4 -2 6
+!!!"<OH=Dm&-)\1
+BDFChar: 96 114 5 0 4 -2 6
+!!!#'^jpq8z
+BDFChar: 97 115 5 0 4 -2 6
+!!!"<5ToOrz
+BDFChar: 98 116 5 0 4 -2 6
+!!#:R5X7"'z
+BDFChar: 99 117 5 0 4 -2 6
+!!!"\OH=D]z
+BDFChar: 100 118 5 0 4 -2 6
+!!!"\OC2Grz
+BDFChar: 101 119 5 0 4 -2 6
+!!!"\ORV`>z
+BDFChar: 102 120 5 0 4 -2 6
+!!!"\?so&rz
+BDFChar: 103 121 5 0 4 -2 6
+!!!"\OH<im5QCca
+BDFChar: 104 122 5 0 4 -2 6
+!!!#g+@,Drz
+BDFChar: 105 123 5 0 4 -2 6
+!&,N<i#j-rz
+BDFChar: 106 124 5 0 4 -2 6
+!$EC,+<VdLz
+BDFChar: 107 125 5 0 4 -2 6
+!5LibE'Q\(z
+BDFChar: 108 126 5 0 4 -2 6
+!!(BMzz
+BDFChar: 109 160 5 0 4 -2 6
+zzz
+BDFChar: 110 161 5 0 4 -2 6
+!!!!a!'ie75QCca
+BDFChar: 111 162 5 0 4 -2 6
+!$H6RTPu"Rz
+BDFChar: 112 163 5 0 4 -2 6
+!&-[r5X=f=z
+BDFChar: 113 164 5 0 4 -2 6
+!0CTMOC4.Mz
+BDFChar: 114 165 5 0 4 -2 6
+!/OGop`L[Zz
+BDFChar: 115 166 5 0 4 -2 6
+!$EC,!$EC,z
+BDFChar: 116 168 5 0 4 -2 6
+!)NXqzz
+BDFChar: 117 169 5 0 4 -2 6
+!!$DgY`N5mz
+BDFChar: 118 171 5 0 4 -2 6
+z8<?@Bz
+BDFChar: 119 173 5 0 4 -2 6
+zn,NFgz
+BDFChar: 120 176 5 0 4 -2 6
+!!$Dg?iU0,z
+BDFChar: 121 180 5 0 4 -2 6
+!"^7Qzz
+BDFChar: 122 184 5 0 4 -2 6
+z!!!!A?iU0,
+BDFChar: 123 187 5 0 4 -2 6
+zO@YH5z
+BDFChar: 124 191 5 0 4 -2 6
+!!!!A!$FOWDu]k<
+BDFChar: 125 192 5 0 4 -2 6
+!'hY\;"0PHz
+BDFChar: 126 193 5 0 4 -2 6
+!$FN\;"0PHz
+BDFChar: 127 194 5 0 4 -2 6
+!'m22;"0PHz
+BDFChar: 128 195 5 0 4 -2 6
+!77qm;"0PHz
+BDFChar: 129 196 5 0 4 -2 6
+!)NYL;"0PHz
+BDFChar: 130 197 5 0 4 -2 6
+!&.4l;"0PHz
+BDFChar: 131 198 5 0 4 -2 6
+!!$u2n=Zucz
+BDFChar: 132 199 5 0 4 -2 6
+!!$tgJ:MS]?iU0,
+BDFChar: 133 200 5 0 4 -2 6
+5ToQHi.1:sz
+BDFChar: 134 201 5 0 4 -2 6
+&0UImi.1:sz
+BDFChar: 135 202 5 0 4 -2 6
++AhQXi.1:sz
+BDFChar: 136 203 5 0 4 -2 6
+:]U!8i.1:sz
+BDFChar: 137 204 5 0 4 -2 6
+5Tk"g+<YV'z
+BDFChar: 138 205 5 0 4 -2 6
+&0Pp7+<YV'z
+BDFChar: 139 206 5 0 4 -2 6
++A`&W+<YV'z
+BDFChar: 140 207 5 0 4 -2 6
+:]PGW+<YV'z
+BDFChar: 141 208 5 0 4 -2 6
+!!(qRcqrX#z
+BDFChar: 142 209 5 0 4 -2 6
+d'*M3d'/T3z
+BDFChar: 143 210 5 0 4 -2 6
+J3[M(OH<iMz
+BDFChar: 144 211 5 0 4 -2 6
+&0PABOH<iMz
+BDFChar: 145 212 5 0 4 -2 6
+5bJ*bOH<iMz
+BDFChar: 146 213 5 0 4 -2 6
+d'*LXOH<iMz
+BDFChar: 147 214 5 0 4 -2 6
+O8r[MOH<iMz
+BDFChar: 148 215 5 0 4 -2 6
+!!!!q+A`%<z
+BDFChar: 149 216 5 0 4 -2 6
+!"`P"OH<k#z
+BDFChar: 150 217 5 0 4 -2 6
+J3]3XOH<iMz
+BDFChar: 151 218 5 0 4 -2 6
+&0R'rOH<iMz
+BDFChar: 152 219 5 0 4 -2 6
+5bJ+=OH<iMz
+BDFChar: 153 220 5 0 4 -2 6
+TE((8OH<iMz
+BDFChar: 154 221 5 0 4 -2 6
+5TkkZ+<Vd,z
+BDFChar: 155 222 5 0 4 -2 6
+!!%Q-OPkWhz
+BDFChar: 156 223 5 0 4 -2 6
+!!$u"TTGfHz
+BDFChar: 157 224 5 0 4 -2 6
+!.[=ROH=D]z
+BDFChar: 158 225 5 0 4 -2 6
+!"^8lOH=D]z
+BDFChar: 159 226 5 0 4 -2 6
++A`&WOH=D]z
+BDFChar: 160 227 5 0 4 -2 6
+d'*LhOH=D]z
+BDFChar: 161 228 5 0 4 -2 6
+!)NZ7OH=D]z
+BDFChar: 162 229 5 0 4 -2 6
+0Mim2OH=D]z
+BDFChar: 163 230 5 0 4 -2 6
+!!!#gE1l\#z
+BDFChar: 164 231 5 0 4 -2 6
+!!!",J:M#m^]4?7
+BDFChar: 165 232 5 0 4 -2 6
+!.[=RTYPLHz
+BDFChar: 166 233 5 0 4 -2 6
+!"^8lTYPLHz
+BDFChar: 167 234 5 0 4 -2 6
++A`&WTYPLHz
+BDFChar: 168 235 5 0 4 -2 6
+!)NZ7TYPLHz
+BDFChar: 169 236 5 0 4 -2 6
+!'hZ7+<YV'z
+BDFChar: 170 237 5 0 4 -2 6
+!"^8\+<YV'z
+BDFChar: 171 238 5 0 4 -2 6
++A`&G+<YV'z
+BDFChar: 172 239 5 0 4 -2 6
+!)NZ'+<YV'z
+BDFChar: 173 240 5 0 4 -2 6
+5k#n(OH<iMz
+BDFChar: 174 241 5 0 4 -2 6
+d'*N.OH>P(z
+BDFChar: 175 242 5 0 4 -2 6
+!.[=BOH<iMz
+BDFChar: 176 243 5 0 4 -2 6
+!"^8\OH<iMz
+BDFChar: 177 244 5 0 4 -2 6
+5bJ*bOH<iMz
+BDFChar: 178 245 5 0 4 -2 6
+d'*LXOH<iMz
+BDFChar: 179 246 5 0 4 -2 6
+!0@1gOH<iMz
+BDFChar: 180 247 5 0 4 -2 6
+!!",ADu_!\z
+BDFChar: 181 248 5 0 4 -2 6
+!!!R<OH<k#z
+BDFChar: 182 249 5 0 4 -2 6
+!.[=rOH<iMz
+BDFChar: 183 250 5 0 4 -2 6
+!"^97OH<iMz
+BDFChar: 184 251 5 0 4 -2 6
+5bJ+=OH<iMz
+BDFChar: 185 252 5 0 4 -2 6
+!2'=ROH<iMz
+BDFChar: 186 253 5 0 4 -2 6
+!"^97OH=Dm?iU0,
+BDFChar: 187 254 5 0 4 -2 6
+!.]UXOHACNJ,fQL
+BDFChar: 188 255 5 0 4 -2 6
+!2'=ROH=Dm?iU0,
+EndBitmapFont
+BitmapFont: 12 190 10 2 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--12-87-100-100-C-60-ISO8859-1"
+SIZE 1 "12 100 100"
+FONTBOUNDINGBOX 1 "6 12 0 -2"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 12
+POINT_SIZE 18 87
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 60
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 7
+X_HEIGHT 18 5
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 6
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 2
+FONT_ASCENT 18 10
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 6 0 5 -2 9
+W)T]pW)T]pW)T]p
+BDFChar: 1 7 6 0 5 -2 9
+!!$DgOC/%gz
+BDFChar: 2 11 6 0 5 -2 9
++<VdL+Q*5"z
+BDFChar: 3 12 6 0 5 -2 9
+z!8ntB+<VdL
+BDFChar: 4 13 6 0 5 -2 9
+z!'DAH+<VdL
+BDFChar: 5 14 6 0 5 -2 9
++<VdL+?TW(z
+BDFChar: 6 15 6 0 5 -2 9
++<VdL+T*?)+<VdL
+BDFChar: 7 18 6 0 5 -2 9
+z!;lfsz
+BDFChar: 8 21 6 0 5 -2 9
++<VdL+?Ubh+<VdL
+BDFChar: 9 22 6 0 5 -2 9
++<VdL+Q+@b+<VdL
+BDFChar: 10 23 6 0 5 -2 9
++<VdL+T)3>z
+BDFChar: 11 24 6 0 5 -2 9
+z!;mr^+<VdL
+BDFChar: 12 25 6 0 5 -2 9
++<VdL+<VdL+<VdL
+BDFChar: 13 30 6 0 5 -2 9
+!!"]<5k%$(p](9o
+BDFChar: 14 32 6 0 5 -2 9
+zzz
+BDFChar: 15 33 6 0 5 -2 9
+!$EC,+<UXa+92BA
+BDFChar: 16 34 6 0 5 -2 9
+!)QKgzz
+BDFChar: 17 35 6 0 5 -2 9
+!)QMe:f-p`:]LIq
+BDFChar: 18 36 6 0 5 -2 9
+&.gfd+:nft+<UXa
+BDFChar: 19 37 6 0 5 -2 9
+!'m3U:`rT5-kH@Y
+BDFChar: 20 38 6 0 5 -2 9
+!'m3M5cBd+BE/#4
+BDFChar: 21 39 6 0 5 -2 9
+!$EC,zz
+BDFChar: 22 40 6 0 5 -2 9
+!"^7q5X7S"+<V3q
+BDFChar: 23 41 6 0 5 -2 9
+!'hYL&.fBa+<WoL
+BDFChar: 24 42 6 0 5 -2 9
+!!!!AW,S[Xz
+BDFChar: 25 43 6 0 5 -2 9
+!!!!A+S['%z
+BDFChar: 26 44 6 0 5 -2 9
+z!!!",?m%]7
+BDFChar: 27 45 6 0 5 -2 9
+z!;HNoz
+BDFChar: 28 46 6 0 5 -2 9
+z!!!",?iU0,
+BDFChar: 29 47 6 0 5 -2 9
+!!!QA+<Wp7J:IV"
+BDFChar: 30 48 6 0 5 -2 9
+!!$toR&J)^Du]k<
+BDFChar: 31 49 6 0 5 -2 9
+!!"-LTHG@"p](9o
+BDFChar: 32 50 6 0 5 -2 9
+!!$to#S8+Dp](9o
+BDFChar: 33 51 6 0 5 -2 9
+!!)d"&24BGDu]k<
+BDFChar: 34 52 6 0 5 -2 9
+!!!Qa:ltG`&-)\1
+BDFChar: 35 53 6 0 5 -2 9
+!!)eEn-B;UDu]k<
+BDFChar: 36 54 6 0 5 -2 9
+!!"]<JFJANDu]k<
+BDFChar: 37 55 6 0 5 -2 9
+!!)d"&.fs,+92BA
+BDFChar: 38 56 6 0 5 -2 9
+!!$toLiA0+Du]k<
+BDFChar: 39 57 6 0 5 -2 9
+!!$toLj01:?iU0,
+BDFChar: 40 58 6 0 5 -2 9
+!!!",?iU17?iU0,
+BDFChar: 41 59 6 0 5 -2 9
+!!!",?iU17?m%]7
+BDFChar: 42 60 6 0 5 -2 9
+!!!99+@%%\#QOi)
+BDFChar: 43 61 6 0 5 -2 9
+zp]1'hz
+BDFChar: 44 62 6 0 5 -2 9
+!!%O7+:oY\J,fQL
+BDFChar: 45 63 6 0 5 -2 9
+!-!`"&0LrQ+92BA
+BDFChar: 46 64 6 0 5 -2 9
+!-!aMR&INFJ9V%o
+BDFChar: 47 65 6 0 5 -2 9
+!!"-<Lkth^L]@DT
+BDFChar: 48 66 6 0 5 -2 9
+!!)MEM"$4Vn,NFg
+BDFChar: 49 67 6 0 5 -2 9
+!!"uDJ:N/82uipY
+BDFChar: 50 68 6 0 5 -2 9
+!!)MELkpkKhuE`W
+BDFChar: 51 69 6 0 5 -2 9
+!!)eEJFJ)>p](9o
+BDFChar: 52 70 6 0 5 -2 9
+!!)eEJFJ)>J,fQL
+BDFChar: 53 71 6 0 5 -2 9
+!!"uDJ=)-`2uipY
+BDFChar: 54 72 6 0 5 -2 9
+!!%h2M"ld^L]@DT
+BDFChar: 55 73 6 0 5 -2 9
+!!$s\+<VdLDu]k<
+BDFChar: 56 74 6 0 5 -2 9
+!!!91#RH6BDu]k<
+BDFChar: 57 75 6 0 5 -2 9
+!!%h:TYR4^L]@DT
+BDFChar: 58 76 6 0 5 -2 9
+!!%P"J:N0#p](9o
+BDFChar: 59 77 6 0 5 -2 9
+!!%i-W2PN.L]@DT
+BDFChar: 60 78 6 0 5 -2 9
+!!%hrW0iBsL]@DT
+BDFChar: 61 79 6 0 5 -2 9
+!!$toLkpkCDu]k<
+BDFChar: 62 80 6 0 5 -2 9
+!!)MEM"#qFJ,fQL
+BDFChar: 63 81 6 0 5 -2 9
+!!$toLkpkCE"E9T
+BDFChar: 64 82 6 0 5 -2 9
+!!)MEM"%(!L]@DT
+BDFChar: 65 83 6 0 5 -2 9
+!!%7oJ8bc"n,NFg
+BDFChar: 66 84 6 0 5 -2 9
+!!)d:+<VdL+92BA
+BDFChar: 67 85 6 0 5 -2 9
+!!%h2LkpkCDu]k<
+BDFChar: 68 86 6 0 5 -2 9
+!!%h2Lepnj+92BA
+BDFChar: 69 87 6 0 5 -2 9
+!!%h2Lo@8NfDkmO
+BDFChar: 70 88 6 0 5 -2 9
+!!%h2:`rSjL]@DT
+BDFChar: 71 89 6 0 5 -2 9
+!!%h2:`pl'+92BA
+BDFChar: 72 90 6 0 5 -2 9
+!!)d*+<Wp7p](9o
+BDFChar: 73 91 6 0 5 -2 9
+!,t1g5X7S"5X98g
+BDFChar: 74 92 6 0 5 -2 9
+!!%P"5X6G7&.egA
+BDFChar: 75 93 6 0 5 -2 9
+!,rJ\&.fBa&.id\
+BDFChar: 76 94 6 0 5 -2 9
+!!"-<L]@DTz
+BDFChar: 77 95 6 0 5 -2 9
+zz!!)os
+BDFChar: 78 96 6 0 5 -2 9
+!'hY<zz
+BDFChar: 79 97 6 0 5 -2 9
+zE!U]EGQ7^D
+BDFChar: 80 98 6 0 5 -2 9
+!!%P"n;)mVn,NFg
+BDFChar: 81 99 6 0 5 -2 9
+zG^t<pGQ7^D
+BDFChar: 82 100 6 0 5 -2 9
+!!!91G_h03GQ7^D
+BDFChar: 83 101 6 0 5 -2 9
+zE/=:>GQ7^D
+BDFChar: 84 102 6 0 5 -2 9
+!!"uDpcq)05QCca
+BDFChar: 85 103 6 0 5 -2 9
+zG_h03GR/6g
+BDFChar: 86 104 6 0 5 -2 9
+!!%P"n;)mVL]@DT
+BDFChar: 87 105 6 0 5 -2 9
+!!",A?m$R7Du]k<
+BDFChar: 88 106 6 0 5 -2 9
+!!!Q10G"d,&.i4L
+BDFChar: 89 107 6 0 5 -2 9
+!!%P"OJ(NnL]@DT
+BDFChar: 90 108 6 0 5 -2 9
+!!$CL+<VdLDu]k<
+BDFChar: 91 109 6 0 5 -2 9
+zfVkaIVuQet
+BDFChar: 92 110 6 0 5 -2 9
+zn;)mVL]@DT
+BDFChar: 93 111 6 0 5 -2 9
+zE/9=+Du]k<
+BDFChar: 94 112 6 0 5 -2 9
+zn;)mVn:6#h
+BDFChar: 95 113 6 0 5 -2 9
+zG_h03GR+QT
+BDFChar: 96 114 6 0 5 -2 9
+z\A3WFJ,fQL
+BDFChar: 97 115 6 0 5 -2 9
+zG^s`=n,NFg
+BDFChar: 98 116 6 0 5 -2 9
+!!!!apcq)02uipY
+BDFChar: 99 117 6 0 5 -2 9
+zLkpkCGQ7^D
+BDFChar: 100 118 6 0 5 -2 9
+zLkpj`+92BA
+BDFChar: 101 119 6 0 5 -2 9
+zLkr".fDkmO
+BDFChar: 102 120 6 0 5 -2 9
+zLeo3jL]@DT
+BDFChar: 103 121 6 0 5 -2 9
+zLknl(+<\H"
+BDFChar: 104 122 6 0 5 -2 9
+zp^eQ5p](9o
+BDFChar: 105 123 6 0 5 -2 9
+(a'qD+M]*B+<VL$
+BDFChar: 106 124 6 0 5 -2 9
+!$EC,+<VdL+<UXa
+BDFChar: 107 125 6 0 5 -2 9
+^`XaB+;c4D+<\H"
+BDFChar: 108 126 6 0 5 -2 9
+!!#QgO8o7\z
+BDFChar: 109 160 6 0 5 -2 9
+zzz
+BDFChar: 110 161 6 0 5 -2 9
+!!!!A!!",a+<Vd,
+BDFChar: 111 162 6 0 5 -2 9
+!$ED'J:N/h+<UXa
+BDFChar: 112 163 6 0 5 -2 9
+!!"]<5k%$(p](9o
+BDFChar: 113 164 6 0 5 -2 9
+!!!"TE):M0z
+BDFChar: 114 165 6 0 5 -2 9
+!!%gO+S[)S+92BA
+BDFChar: 115 166 6 0 5 -2 9
+!$EC,+93N,+<UXa
+BDFChar: 116 168 6 0 5 -2 9
+!!#gqzz
+BDFChar: 117 169 6 0 5 -2 9
+!!%7sPbaOsGQ7^D
+BDFChar: 118 171 6 0 5 -2 9
+z-r?R5-ia5I
+BDFChar: 119 173 6 0 5 -2 9
+z!;HNoz
+BDFChar: 120 176 6 0 5 -2 9
+!!$DgOC/%gz
+BDFChar: 121 180 6 0 5 -2 9
+!"^7Qzz
+BDFChar: 122 184 6 0 5 -2 9
+zz!$K&W
+BDFChar: 123 187 6 0 5 -2 9
+zTMR%5TE"rl
+BDFChar: 124 191 6 0 5 -2 9
+!!!!A!!"-,J;A.E
+BDFChar: 125 192 6 0 5 -2 9
+5Tg%L+Ad$5L]@DT
+BDFChar: 126 193 6 0 5 -2 9
+&0Lrq+Ad$5L]@DT
+BDFChar: 127 194 6 0 5 -2 9
++A`%\+Ad$5L]@DT
+BDFChar: 128 195 6 0 5 -2 9
+BWqIZ+Ad$5L]@DT
+BDFChar: 129 196 6 0 5 -2 9
+:]MU\:f)+eL]@DT
+BDFChar: 130 197 6 0 5 -2 9
++AblW+Ad$5L]@DT
+BDFChar: 131 198 6 0 5 -2 9
+!!"u4:fq[uQiI*d
+BDFChar: 132 199 6 0 5 -2 9
+!!"uDJ:N/83"THt
+BDFChar: 133 200 6 0 5 -2 9
+5Tg(%JFJ)>p](9o
+BDFChar: 134 201 6 0 5 -2 9
+&0LuJJFJ)>p](9o
+BDFChar: 135 202 6 0 5 -2 9
++A`(5JFJ)>p](9o
+BDFChar: 136 203 6 0 5 -2 9
+:]U9@JFJ)>p](9o
+BDFChar: 137 204 6 0 5 -2 9
+5Tg&G+<VdLDu]k<
+BDFChar: 138 205 6 0 5 -2 9
+&0Lsl+<VdLDu]k<
+BDFChar: 139 206 6 0 5 -2 9
++A`&W+<VdLDu]k<
+BDFChar: 140 207 6 0 5 -2 9
+:]PGW+<VdLDu]k<
+BDFChar: 141 208 6 0 5 -2 9
+!!)LZ8E`T@huE`W
+BDFChar: 142 209 6 0 5 -2 9
+BWqJmaJbJ^L]@DT
+BDFChar: 143 210 6 0 5 -2 9
+5Tg&GLkpkCDu]k<
+BDFChar: 144 211 6 0 5 -2 9
+&0LslLkpkCDu]k<
+BDFChar: 145 212 6 0 5 -2 9
++A`&WLkpkCDu]k<
+BDFChar: 146 213 6 0 5 -2 9
+BWqJULkpkCDu]k<
+BDFChar: 147 214 6 0 5 -2 9
+:]PHjLkpkCDu]k<
+BDFChar: 148 215 6 0 5 -2 9
+z82)_gz
+BDFChar: 149 216 6 0 5 -2 9
+!!mP2R&J*IE.@og
+BDFChar: 150 217 6 0 5 -2 9
+5Tkl=LkpkCDu]k<
+BDFChar: 151 218 6 0 5 -2 9
+&0QdbLkpkCDu]k<
+BDFChar: 152 219 6 0 5 -2 9
++A`&oLkpkCDu]k<
+BDFChar: 153 220 6 0 5 -2 9
+:]Q<-LkpkCDu]k<
+BDFChar: 154 221 6 0 5 -2 9
+&0Lt/Leo3:+92BA
+BDFChar: 155 222 6 0 5 -2 9
+!!%Q=LkplVJ,fQL
+BDFChar: 156 223 6 0 5 -2 9
+!!$toOKaOsYQ+Y'
+BDFChar: 157 224 6 0 5 -2 9
+!'hY,E!U]EGQ7^D
+BDFChar: 158 225 6 0 5 -2 9
+!"^7QE!U]EGQ7^D
+BDFChar: 159 226 6 0 5 -2 9
++A`%<E!U]EGQ7^D
+BDFChar: 160 227 6 0 5 -2 9
+BWqI:E!U]EGQ7^D
+BDFChar: 161 228 6 0 5 -2 9
+!!#gqE!U]EGQ7^D
+BDFChar: 162 229 6 0 5 -2 9
+0M!ktE!U]EGQ7^D
+BDFChar: 163 230 6 0 5 -2 9
+zfI2!;fDkmO
+BDFChar: 164 231 6 0 5 -2 9
+zE.EIhE$2pr
+BDFChar: 165 232 6 0 5 -2 9
+!'hY,E/=:>GQ7^D
+BDFChar: 166 233 6 0 5 -2 9
+!"^7QE/=:>GQ7^D
+BDFChar: 167 234 6 0 5 -2 9
++A`%<E/=:>GQ7^D
+BDFChar: 168 235 6 0 5 -2 9
+!!#gqE/=:>GQ7^D
+BDFChar: 169 236 6 0 5 -2 9
+!'hY,?m$R7Du]k<
+BDFChar: 170 237 6 0 5 -2 9
+!"^7Q?m$R7Du]k<
+BDFChar: 171 238 6 0 5 -2 9
++A`%<?m$R7Du]k<
+BDFChar: 172 239 6 0 5 -2 9
+!!#gq?m$R7Du]k<
+BDFChar: 173 240 6 0 5 -2 9
++?4<OG_h03Du]k<
+BDFChar: 174 241 6 0 5 -2 9
+BWqI:n;)mVL]@DT
+BDFChar: 175 242 6 0 5 -2 9
+!'hY,E/9=+Du]k<
+BDFChar: 176 243 6 0 5 -2 9
+!"^7QE/9=+Du]k<
+BDFChar: 177 244 6 0 5 -2 9
++A`%<E/9=+Du]k<
+BDFChar: 178 245 6 0 5 -2 9
+BWqI:E/9=+Du]k<
+BDFChar: 179 246 6 0 5 -2 9
+!!#gqE/9=+Du]k<
+BDFChar: 180 247 6 0 5 -2 9
+!!!!A!;HO:z
+BDFChar: 181 248 6 0 5 -2 9
+!!!!)E1!TFE.@og
+BDFChar: 182 249 6 0 5 -2 9
+!'hY,LkpkCGQ7^D
+BDFChar: 183 250 6 0 5 -2 9
+!"^7QLkpkCGQ7^D
+BDFChar: 184 251 6 0 5 -2 9
++A`%<LkpkCGQ7^D
+BDFChar: 185 252 6 0 5 -2 9
+!!#gqLkpkCGQ7^D
+BDFChar: 186 253 6 0 5 -2 9
+!"^7QLkpkCGR/6g
+BDFChar: 187 254 6 0 5 -2 9
+!!%P"n;)mVn:6#h
+BDFChar: 188 255 6 0 5 -2 9
+!!#gqLkpkCGR/6g
+BDFChar: 189 0 6 0 5 -2 9
+!!!"D84Z9BGQ7^D
+EndBitmapFont
+BitmapFont: 13 190 11 2 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--13-94-100-100-C-70-ISO8859-1"
+SIZE 1 "13 100 100"
+FONTBOUNDINGBOX 1 "7 13 0 -2"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 13
+POINT_SIZE 18 94
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 70
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 7
+X_HEIGHT 18 5
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 7
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 2
+FONT_ASCENT 18 11
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 7 0 6 -2 10
+W`5utW`5utW`5utWW3#!
+BDFChar: 1 7 7 0 6 -2 10
+!!!!Q84YE7zz
+BDFChar: 2 11 7 0 6 -2 10
+&.fBa&.n=2zz
+BDFChar: 3 12 7 0 6 -2 10
+z!!)L"&.fBa&-)\1
+BDFChar: 4 13 7 0 6 -2 10
+z!!"&O&.fBa&-)\1
+BDFChar: 5 14 7 0 6 -2 10
+&.fBa&.fl_zz
+BDFChar: 6 15 7 0 6 -2 10
+&.fBa&.ngP&.fBa&-)\1
+BDFChar: 7 18 7 0 6 -2 10
+z!!)uuzz
+BDFChar: 8 21 7 0 6 -2 10
+&.fBa&.flo&.fBa&-)\1
+BDFChar: 9 22 7 0 6 -2 10
+&.fBa&.n=B&.fBa&-)\1
+BDFChar: 10 23 7 0 6 -2 10
+&.fBa&.ng@zz
+BDFChar: 11 24 7 0 6 -2 10
+z!!*!0&.fBa&-)\1
+BDFChar: 12 25 7 0 6 -2 10
+&.fBa&.fBa&.fBa&-)\1
+BDFChar: 13 30 7 0 6 -2 10
+!!!!9+<YnO+FF.hz
+BDFChar: 14 32 7 0 6 -2 10
+zzzz
+BDFChar: 15 33 7 0 6 -2 10
+!!!QA&.fBQ!"],1z
+BDFChar: 16 34 7 0 6 -2 10
+!!"Dq-ia5Izz
+BDFChar: 17 35 7 0 6 -2 10
+!!"DqHmgCj-n#&qz
+BDFChar: 18 36 7 0 6 -2 10
+!!iim5VNHHGRtDdz
+BDFChar: 19 37 7 0 6 -2 10
+!!"-<<%&;+<"oT<z
+BDFChar: 20 38 7 0 6 -2 10
+!!"-<:`r_.82L;Hz
+BDFChar: 21 39 7 0 6 -2 10
+!!!QA&-)\1zz
+BDFChar: 22 40 7 0 6 -2 10
+!!!99&0N)<+:o(iz
+BDFChar: 23 41 7 0 6 -2 10
+!!",Q&-rOI#S7Oiz
+BDFChar: 24 42 7 0 6 -2 10
+z&6(Vg&-)\1z
+BDFChar: 25 43 7 0 6 -2 10
+z&.j4#&-)\1z
+BDFChar: 26 44 7 0 6 -2 10
+zz0JF%\z
+BDFChar: 27 45 7 0 6 -2 10
+z!!%BHzz
+BDFChar: 28 46 7 0 6 -2 10
+zz0JEJ,z
+BDFChar: 29 47 7 0 6 -2 10
+!!!!)#S7Oi+@&0lz
+BDFChar: 30 48 7 0 6 -2 10
+!!!!Y6qgQj6oY/Hz
+BDFChar: 31 49 7 0 6 -2 10
+!!!!10Mi;l&:=HXz
+BDFChar: 32 50 7 0 6 -2 10
+!!!!Y6j*c,+FF.hz
+BDFChar: 33 51 7 0 6 -2 10
+!!!"H":,hI6oY/Hz
+BDFChar: 34 52 7 0 6 -2 10
+!!!!)(aqq&#RCD1z
+BDFChar: 35 53 7 0 6 -2 10
+!!!"H5^3D76oY/Hz
+BDFChar: 36 54 7 0 6 -2 10
+!!!!9+@(0>6oY/Hz
+BDFChar: 37 55 7 0 6 -2 10
+!!!"H":,8E&.egAz
+BDFChar: 38 56 7 0 6 -2 10
+!!!!Y6ps"&6oY/Hz
+BDFChar: 39 57 7 0 6 -2 10
+!!!!Y6ps-?#VZ5Yz
+BDFChar: 40 58 7 0 6 -2 10
+z0JEJ,0JEJ,z
+BDFChar: 41 59 7 0 6 -2 10
+z0JEJ,0JF%\z
+BDFChar: 42 60 7 0 6 -2 10
+!!!!%#S8*i#Qt,-z
+BDFChar: 43 61 7 0 6 -2 10
+z!.4cozz
+BDFChar: 44 62 7 0 6 -2 10
+!!!!a+:nei+@#o,z
+BDFChar: 45 63 7 0 6 -2 10
+!!"uH":,P=!"],1z
+BDFChar: 46 64 7 0 6 -2 10
+!!"uH6qgQb5X7F3z
+BDFChar: 47 65 7 0 6 -2 10
+!!!!1-q$IN6pq"Tz
+BDFChar: 48 66 7 0 6 -2 10
+!!!"D6pu8f7!J\3z
+BDFChar: 49 67 7 0 6 -2 10
+!!!!=+@&1W+<1@]z
+BDFChar: 50 68 7 0 6 -2 10
+!!!"D6psF288nP/z
+BDFChar: 51 69 7 0 6 -2 10
+!!!"H5X9QZ5^WP3z
+BDFChar: 52 70 7 0 6 -2 10
+!!!"H5X9QZ5X5;Lz
+BDFChar: 53 71 7 0 6 -2 10
+!!!!=+@&Ug,THdaz
+BDFChar: 54 72 7 0 6 -2 10
+!!!!e6puDj6pq"Tz
+BDFChar: 55 73 7 0 6 -2 10
+!!!"H&.fBa&:=HXz
+BDFChar: 56 74 7 0 6 -2 10
+!!!!%"9\iq6oY/Hz
+BDFChar: 57 75 7 0 6 -2 10
+!!!!e85N\j843FXz
+BDFChar: 58 76 7 0 6 -2 10
+!!!!a5X7S"5^WP3z
+BDFChar: 59 77 7 0 6 -2 10
+!!!!eCfFA%6pq"Tz
+BDFChar: 60 78 7 0 6 -2 10
+!!!!eA5l5j6pq"Tz
+BDFChar: 61 79 7 0 6 -2 10
+!!!!Y6psF26oY/Hz
+BDFChar: 62 80 7 0 6 -2 10
+!!!"D6pu8b5X5;Lz
+BDFChar: 63 81 7 0 6 -2 10
+!!!!Y6psF26oYGTz
+BDFChar: 64 82 7 0 6 -2 10
+!!!"D6pu8r843FXz
+BDFChar: 65 83 7 0 6 -2 10
+!!!!]5X7:3"F'nHz
+BDFChar: 66 84 7 0 6 -2 10
+!!!"H&.fBa&.egAz
+BDFChar: 67 85 7 0 6 -2 10
+!!!!e6psF26oY/Hz
+BDFChar: 68 86 7 0 6 -2 10
+!!!!e6prFO&.egAz
+BDFChar: 69 87 7 0 6 -2 10
+!!!!e6pt!R<,;O7z
+BDFChar: 70 88 7 0 6 -2 10
+!!!!e6mrTp6pq"Tz
+BDFChar: 71 89 7 0 6 -2 10
+!!!!e6mrTX&.egAz
+BDFChar: 72 90 7 0 6 -2 10
+!!!"H#S7Oi+FF.hz
+BDFChar: 73 91 7 0 6 -2 10
+!!"u$+<VdL+<Vddz
+BDFChar: 74 92 7 0 6 -2 10
+!!!!a5Th0\&-rOAz
+BDFChar: 75 93 7 0 6 -2 10
+!!"ta#RC\A#RC\qz
+BDFChar: 76 94 7 0 6 -2 10
+!!!!1-q"%8zz
+BDFChar: 77 95 7 0 6 -2 10
+zz!!!#uz
+BDFChar: 78 96 7 0 6 -2 10
+!!",Q#QOi)zz
+BDFChar: 79 97 7 0 6 -2 10
+z!&t*D6p(GLz
+BDFChar: 80 98 7 0 6 -2 10
+!!!!a5^5[b7!J\3z
+BDFChar: 81 99 7 0 6 -2 10
+z!'EM35Wf#Hz
+BDFChar: 82 100 7 0 6 -2 10
+!!!!%"?](?6p(GLz
+BDFChar: 83 101 7 0 6 -2 10
+z!'!Ao5Wf#Hz
+BDFChar: 84 102 7 0 6 -2 10
+!!!!=+FG:S+<UXaz
+BDFChar: 85 103 7 0 6 -2 10
+z!'EY;6p(T3z
+BDFChar: 86 104 7 0 6 -2 10
+!!!!a5^5[b6pq"Tz
+BDFChar: 87 105 7 0 6 -2 10
+!!!!1!,rJ\&:=HXz
+BDFChar: 88 106 7 0 6 -2 10
+!!!!)!&t5i#RC]Tz
+BDFChar: 89 107 7 0 6 -2 10
+!!!!a5Y+^j843FXz
+BDFChar: 90 108 7 0 6 -2 10
+!!!"<&.fBa&:=HXz
+BDFChar: 91 109 7 0 6 -2 10
+z!,PV6<)`htz
+BDFChar: 92 110 7 0 6 -2 10
+z!-gn"6pq"Tz
+BDFChar: 93 111 7 0 6 -2 10
+z!'!A76oY/Hz
+BDFChar: 94 112 7 0 6 -2 10
+z!-gn"7!Ls^z
+BDFChar: 95 113 7 0 6 -2 10
+z!'EY;6p(STz
+BDFChar: 96 114 7 0 6 -2 10
+z!*ins5X5;Lz
+BDFChar: 97 115 7 0 6 -2 10
+z!'EM+"F'nHz
+BDFChar: 98 116 7 0 6 -2 10
+z+FG:S+<1@]z
+BDFChar: 99 117 7 0 6 -2 10
+z!(94C6p(GLz
+BDFChar: 100 118 7 0 6 -2 10
+z!(94C-kH@Yz
+BDFChar: 101 119 7 0 6 -2 10
+z!(94S<,;O7z
+BDFChar: 102 120 7 0 6 -2 10
+z!(84H-q"%8z
+BDFChar: 103 121 7 0 6 -2 10
+z!(94C6p(T3z
+BDFChar: 104 122 7 0 6 -2 10
+z!.5%`+FF.hz
+BDFChar: 105 123 7 0 6 -2 10
+!"9DM&.i4\&.fB]z
+BDFChar: 106 124 7 0 6 -2 10
+!!!QA&.fBa&.fBQz
+BDFChar: 107 125 7 0 6 -2 10
+!+6?L&.f6]&.fC\z
+BDFChar: 108 126 7 0 6 -2 10
+!!!!E<(Huhzz
+BDFChar: 109 160 7 0 6 -2 10
+zzzz
+BDFChar: 110 161 7 0 6 -2 10
+z&-)\A&.fBaz
+BDFChar: 111 162 7 0 6 -2 10
+!!!QA3']_o3"QW$z
+BDFChar: 112 163 7 0 6 -2 10
+!!!!9+<YnO+FF.hz
+BDFChar: 113 164 7 0 6 -2 10
+z6oZSS6i[2ez
+BDFChar: 114 165 7 0 6 -2 10
+!!!!e-kLb;Hk68Xz
+BDFChar: 115 166 7 0 6 -2 10
+!!!QA&.egQ&.fBQz
+BDFChar: 116 168 7 0 6 -2 10
+!!!!Izzz
+BDFChar: 117 169 7 0 6 -2 10
+!!!"DKX@P^KQmIsz
+BDFChar: 118 171 7 0 6 -2 10
+z!#-hX-klX]z
+BDFChar: 119 173 7 0 6 -2 10
+z!!%BHzz
+BDFChar: 120 176 7 0 6 -2 10
+!!!!Q84YE7zz
+BDFChar: 121 180 7 0 6 -2 10
+!!!99zzz
+BDFChar: 122 184 7 0 6 -2 10
+zz!!!R<z
+BDFChar: 123 187 7 0 6 -2 10
+z!)P'X-r9mDz
+BDFChar: 124 191 7 0 6 -2 10
+z&-)\A+@&=Sz
+BDFChar: 125 192 7 0 6 -2 10
+!$DgQ&.g6L6pq"Tz
+BDFChar: 126 193 7 0 6 -2 10
+!!j,9&.g6L6pq"Tz
+BDFChar: 127 194 7 0 6 -2 10
+!"^OY&.g6L6pq"Tz
+BDFChar: 128 195 7 0 6 -2 10
+!&RdX&.g6L6pq"Tz
+BDFChar: 129 196 7 0 6 -2 10
+!%7gY&1Aqd6pq"Tz
+BDFChar: 130 197 7 0 6 -2 10
+!"^P,&.g6L6pq"Tz
+BDFChar: 131 198 7 0 6 -2 10
+!!!!=(appp85'!`z
+BDFChar: 132 199 7 0 6 -2 10
+!!!!=+@&1W+<1Y@z
+BDFChar: 133 200 7 0 6 -2 10
+!$DgQHpDpA5^WP3z
+BDFChar: 134 201 7 0 6 -2 10
+!!j,9HpDpA5^WP3z
+BDFChar: 135 202 7 0 6 -2 10
+!"^OYHpDpA5^WP3z
+BDFChar: 136 203 7 0 6 -2 10
+!%7hp5X9QZ5^WP3z
+BDFChar: 137 204 7 0 6 -2 10
+!$DgQ3"QW4&3'Xiz
+BDFChar: 138 205 7 0 6 -2 10
+!!j,93"QW4&3'Xiz
+BDFChar: 139 206 7 0 6 -2 10
+!"^OY3"QW4&3'Xiz
+BDFChar: 140 207 7 0 6 -2 10
+!%7h,&.fBa&3'Xiz
+BDFChar: 141 208 7 0 6 -2 10
+!!!"D,U@IW-u].dz
+BDFChar: 142 209 7 0 6 -2 10
+!&RdX6tB7j6pq"Tz
+BDFChar: 143 210 7 0 6 -2 10
+!$DgQ3(-/&6oY/Hz
+BDFChar: 144 211 7 0 6 -2 10
+!!j,93(-/&6oY/Hz
+BDFChar: 145 212 7 0 6 -2 10
+!"^OY3(-/&6oY/Hz
+BDFChar: 146 213 7 0 6 -2 10
+!&RdX3(-/&6oY/Hz
+BDFChar: 147 214 7 0 6 -2 10
+!%7h,6psF26oY/Hz
+BDFChar: 148 215 7 0 6 -2 10
+z!$iBu,QIfEz
+BDFChar: 149 216 7 0 6 -2 10
+!!!-]9MADrA2lgSz
+BDFChar: 150 217 7 0 6 -2 10
+!$Dh@6psF26oY/Hz
+BDFChar: 151 218 7 0 6 -2 10
+!!j-(6psF26oY/Hz
+BDFChar: 152 219 7 0 6 -2 10
+!"^OY6psF26oY/Hz
+BDFChar: 153 220 7 0 6 -2 10
+!%7h86psF26oY/Hz
+BDFChar: 154 221 7 0 6 -2 10
+!!j,96prF7&.egAz
+BDFChar: 155 222 7 0 6 -2 10
+!!!!aGXOqfGX)6/z
+BDFChar: 156 223 7 0 6 -2 10
+!!!!Y6qCEJ6s'Ehz
+BDFChar: 157 224 7 0 6 -2 10
+!!",Q!&t*D6p(GLz
+BDFChar: 158 225 7 0 6 -2 10
+!!!99!&t*D6p(GLz
+BDFChar: 159 226 7 0 6 -2 10
+!"^OY!&t*D6p(GLz
+BDFChar: 160 227 7 0 6 -2 10
+!&RdX!&t*D6p(GLz
+BDFChar: 161 228 7 0 6 -2 10
+!!!!I!&t*D6p(GLz
+BDFChar: 162 229 7 0 6 -2 10
+!#Qsu!&t*D6p(GLz
+BDFChar: 163 230 7 0 6 -2 10
+z!,N?3:i$+3z
+BDFChar: 164 231 7 0 6 -2 10
+z!'!5/5WB<_z
+BDFChar: 165 232 7 0 6 -2 10
+!!",Q!'!Ao5Wf#Hz
+BDFChar: 166 233 7 0 6 -2 10
+!!!99!'!Ao5Wf#Hz
+BDFChar: 167 234 7 0 6 -2 10
+!"^OY!'!Ao5Wf#Hz
+BDFChar: 168 235 7 0 6 -2 10
+!!!!I!'!Ao5Wf#Hz
+BDFChar: 169 236 7 0 6 -2 10
+!!",Q!&+rq&3'Xiz
+BDFChar: 170 237 7 0 6 -2 10
+!!!99!&+rq&3'Xiz
+BDFChar: 171 238 7 0 6 -2 10
+!"^OY!&+rq&3'Xiz
+BDFChar: 172 239 7 0 6 -2 10
+!!!!I!&+rq&3'Xiz
+BDFChar: 173 240 7 0 6 -2 10
+!"^,0#WtLC6oY/Hz
+BDFChar: 174 241 7 0 6 -2 10
+!&RdX!-gn"6pq"Tz
+BDFChar: 175 242 7 0 6 -2 10
+!!",Q!'!A76oY/Hz
+BDFChar: 176 243 7 0 6 -2 10
+!!!99!'!A76oY/Hz
+BDFChar: 177 244 7 0 6 -2 10
+!"^OY!'!A76oY/Hz
+BDFChar: 178 245 7 0 6 -2 10
+!&RdX!'!A76oY/Hz
+BDFChar: 179 246 7 0 6 -2 10
+!!!!I!'!A76oY/Hz
+BDFChar: 180 247 7 0 6 -2 10
+z&-.(X&-)\1z
+BDFChar: 181 248 7 0 6 -2 10
+z"?9(SA2lgSz
+BDFChar: 182 249 7 0 6 -2 10
+!!",Q!(94C6p(GLz
+BDFChar: 183 250 7 0 6 -2 10
+!!!99!(94C6p(GLz
+BDFChar: 184 251 7 0 6 -2 10
+!"^OY!(94C6p(GLz
+BDFChar: 185 252 7 0 6 -2 10
+!!!!I!(94C6p(GLz
+BDFChar: 186 253 7 0 6 -2 10
+!!!99!(94C6p(T3z
+BDFChar: 187 254 7 0 6 -2 10
+!!!!a5^5[b7!Ls^z
+BDFChar: 188 255 7 0 6 -2 10
+!!!!I!(94C6p(T3z
+BDFChar: 189 0 7 0 6 -2 10
+z4<u0t,Wl&,z
+EndBitmapFont
+BitmapFont: 14 190 11 3 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--14-101-100-100-C-70-ISO8859-1"
+SIZE 1 "14 100 100"
+FONTBOUNDINGBOX 1 "7 14 0 -3"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 14
+POINT_SIZE 18 101
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 70
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 8
+X_HEIGHT 18 6
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 7
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 3
+FONT_ASCENT 18 11
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 7 0 6 -3 10
+OsES],Y4(D8<P5hOsC#-
+BDFChar: 1 7 7 0 6 -3 10
+!!!!Q84YE7zz
+BDFChar: 2 11 7 0 6 -3 10
+&.fBa&.fEBzz
+BDFChar: 3 12 7 0 6 -3 10
+z!!!#g&.fBa&.egA
+BDFChar: 4 13 7 0 6 -3 10
+z!!!!?&.fBa&.egA
+BDFChar: 5 14 7 0 6 -3 10
+&.fBa&.fBozz
+BDFChar: 6 15 7 0 6 -3 10
+&.fBa&.fEP&.fBa&.egA
+BDFChar: 7 18 7 0 6 -3 10
+z!!!#uzz
+BDFChar: 8 21 7 0 6 -3 10
+&.fBa&.fBo&.fBa&.egA
+BDFChar: 9 22 7 0 6 -3 10
+&.fBa&.fEB&.fBa&.egA
+BDFChar: 10 23 7 0 6 -3 10
+&.fBa&.fEPzz
+BDFChar: 11 24 7 0 6 -3 10
+z!!!#u&.fBa&.egA
+BDFChar: 12 25 7 0 6 -3 10
+&.fBa&.fBa&.fBa&.egA
+BDFChar: 13 30 7 0 6 -3 10
+!!!!9+<YnO+<Z%3z
+BDFChar: 14 32 7 0 6 -3 10
+zzzz
+BDFChar: 15 33 7 0 6 -3 10
+!!!QA&.fBQ!"]\Az
+BDFChar: 16 34 7 0 6 -3 10
+!!"Dq-n#&qzz
+BDFChar: 17 35 7 0 6 -3 10
+!!!!I."!EkHmgBCz
+BDFChar: 18 36 7 0 6 -3 10
+!!!QA4?u.k"9`r\&-)\1
+BDFChar: 19 37 7 0 6 -3 10
+!!!!aUo7*<<0RXgz
+BDFChar: 20 38 7 0 6 -3 10
+!!"-<:f&E:85(c=z
+BDFChar: 21 39 7 0 6 -3 10
+!!!QA&.egAzz
+BDFChar: 22 40 7 0 6 -3 10
+!!!99&0N)<+<V4,#QOi)
+BDFChar: 23 41 7 0 6 -3 10
+!!",Q&-rOI#RCtQ+92BA
+BDFChar: 24 42 7 0 6 -3 10
+z!"`*h<"K$0z
+BDFChar: 25 43 7 0 6 -3 10
+z!"]]h&.egAz
+BDFChar: 26 44 7 0 6 -3 10
+zz!&-)<&0LrQ
+BDFChar: 27 45 7 0 6 -3 10
+z!!!"Hzz
+BDFChar: 28 46 7 0 6 -3 10
+zz!&-),z
+BDFChar: 29 47 7 0 6 -3 10
+!!!-)#RCtQ+<Wp7z
+BDFChar: 30 48 7 0 6 -3 10
+!!!!Y6qgQj6ps!7z
+BDFChar: 31 49 7 0 6 -3 10
+!!!!10Mi;l&.j3hz
+BDFChar: 32 50 7 0 6 -3 10
+!!!!Y6j*c,+@(;Sz
+BDFChar: 33 51 7 0 6 -3 10
+!!!"H":,hI"@P3Lz
+BDFChar: 34 52 7 0 6 -3 10
+!!!!)(aqq&#RC\9z
+BDFChar: 35 53 7 0 6 -3 10
+!!!"H5X9Ps"@P3Lz
+BDFChar: 36 54 7 0 6 -3 10
+!!!!9+@(0>6ps!7z
+BDFChar: 37 55 7 0 6 -3 10
+!!!"H":,8E&0N(qz
+BDFChar: 38 56 7 0 6 -3 10
+!!!!Y6ps"&6ps!7z
+BDFChar: 39 57 7 0 6 -3 10
+!!!!Y6psF*":-[]z
+BDFChar: 40 58 7 0 6 -3 10
+z0JEJ,!&-),z
+BDFChar: 41 59 7 0 6 -3 10
+z0JEJ,!&-)<&0LrQ
+BDFChar: 42 60 7 0 6 -3 10
+z":,P]&-rC=z
+BDFChar: 43 61 7 0 6 -3 10
+z!.4bHHiO-Hz
+BDFChar: 44 62 7 0 6 -3 10
+z5TgUD&0O4<z
+BDFChar: 45 63 7 0 6 -3 10
+!!"uH":,P=!"]\Az
+BDFChar: 46 64 7 0 6 -3 10
+!!!!Y6ps^J>X1P:z
+BDFChar: 47 65 7 0 6 -3 10
+!!!!1-q$IN6psECz
+BDFChar: 48 66 7 0 6 -3 10
+!!!"D6pu8f6pu8"z
+BDFChar: 49 67 7 0 6 -3 10
+!!!!=+@&1W5Th$Hz
+BDFChar: 50 68 7 0 6 -3 10
+!!!"D6psF26qD7sz
+BDFChar: 51 69 7 0 6 -3 10
+!!!"H5X9QZ5X9\sz
+BDFChar: 52 70 7 0 6 -3 10
+!!!"H5X9QZ5X7R7z
+BDFChar: 53 71 7 0 6 -3 10
+!!!!=+@&1c6mN`Pz
+BDFChar: 54 72 7 0 6 -3 10
+!!!!e6puDj6psECz
+BDFChar: 55 73 7 0 6 -3 10
+!!!"H&.fBa&.j3hz
+BDFChar: 56 74 7 0 6 -3 10
+!!!!%"9\i16ps!7z
+BDFChar: 57 75 7 0 6 -3 10
+!!!!e85N]%:e3tSz
+BDFChar: 58 76 7 0 6 -3 10
+!!!!a5X7S"5X9\sz
+BDFChar: 59 77 7 0 6 -3 10
+!!!!eCfFA%6psECz
+BDFChar: 60 78 7 0 6 -3 10
+!!!!eA5l5j6psECz
+BDFChar: 61 79 7 0 6 -3 10
+!!!!Y6psF26ps!7z
+BDFChar: 62 80 7 0 6 -3 10
+!!!"D6psFf5X7R7z
+BDFChar: 63 81 7 0 6 -3 10
+!!!!Y6psF26ps!?"98E%
+BDFChar: 64 82 7 0 6 -3 10
+!!!"D6psFf:e3tSz
+BDFChar: 65 83 7 0 6 -3 10
+!!!!]5X7"/"9`rLz
+BDFChar: 66 84 7 0 6 -3 10
+!!!"H&.fBa&.fBQz
+BDFChar: 67 85 7 0 6 -3 10
+!!!!e6psF26ps!7z
+BDFChar: 68 86 7 0 6 -3 10
+!!!!e6psEk-kHpiz
+BDFChar: 69 87 7 0 6 -3 10
+!!!!e6psFB<)dZ6z
+BDFChar: 70 88 7 0 6 -3 10
+!!!!e6mrTX-q$H'z
+BDFChar: 71 89 7 0 6 -3 10
+!!!!e6msGp&.fBQz
+BDFChar: 72 90 7 0 6 -3 10
+!!!"H#RCtQ+<Z%3z
+BDFChar: 73 91 7 0 6 -3 10
+!!"u$+<VdL+<VdL2uipY
+BDFChar: 74 92 7 0 6 -3 10
+!!#8L+<V4,#RCP9z
+BDFChar: 75 93 7 0 6 -3 10
+!!"ta#RC\A#RC\A2uipY
+BDFChar: 76 94 7 0 6 -3 10
+!!!!1-q"%8zz
+BDFChar: 77 95 7 0 6 -3 10
+zzzrVuou
+BDFChar: 78 96 7 0 6 -3 10
+!!",Q#QOi)zz
+BDFChar: 79 97 7 0 6 -3 10
+z!&t*D6ps-;z
+BDFChar: 80 98 7 0 6 -3 10
+!!#8L5ZhPb6pu8"z
+BDFChar: 81 99 7 0 6 -3 10
+z!'EM35X7F3z
+BDFChar: 82 100 7 0 6 -3 10
+!!!!%"?](?6ps-;z
+BDFChar: 83 101 7 0 6 -3 10
+z!'!Ao5X7F3z
+BDFChar: 84 102 7 0 6 -3 10
+!!!!=+FG:S+<Vd,z
+BDFChar: 85 103 7 0 6 -3 10
+z!'EY;6ps-?2uipY
+BDFChar: 86 104 7 0 6 -3 10
+!!#8L5ZhPb6psECz
+BDFChar: 87 105 7 0 6 -3 10
+!!!QA!,rJ\&.j3hz
+BDFChar: 88 106 7 0 6 -3 10
+!!!91!&t5i#RC\ADu]k<
+BDFChar: 89 107 7 0 6 -3 10
+!!#8L5Y+^Z:e3tSz
+BDFChar: 90 108 7 0 6 -3 10
+!!$sL&.fBa&.f6Mz
+BDFChar: 91 109 7 0 6 -3 10
+z!-hIB<)cfsz
+BDFChar: 92 110 7 0 6 -3 10
+z!*Ec"6psECz
+BDFChar: 93 111 7 0 6 -3 10
+z!'!A76ps!7z
+BDFChar: 94 112 7 0 6 -3 10
+z!*Ec"6pu8b5X5;L
+BDFChar: 95 113 7 0 6 -3 10
+z!'EY;6qfE?"9\])
+BDFChar: 96 114 7 0 6 -3 10
+z!*ins5X7R7z
+BDFChar: 97 115 7 0 6 -3 10
+z!'EM##R#APz
+BDFChar: 98 116 7 0 6 -3 10
+!!!!A+FG:S+<VX(z
+BDFChar: 99 117 7 0 6 -3 10
+z!(94C6ps-;z
+BDFChar: 100 118 7 0 6 -3 10
+z!(94'-kHpiz
+BDFChar: 101 119 7 0 6 -3 10
+z!(94S<)dZ6z
+BDFChar: 102 120 7 0 6 -3 10
+z!(84H&1BpHz
+BDFChar: 103 121 7 0 6 -3 10
+z!(94C6qfE?"?6A]
+BDFChar: 104 122 7 0 6 -3 10
+z!.5%`&0Q?#z
+BDFChar: 105 123 7 0 6 -3 10
+!!!E=&.fC\&.fBa$ig8-
+BDFChar: 106 124 7 0 6 -3 10
+!!!QA&.fBa&.fBaz
+BDFChar: 107 125 7 0 6 -3 10
+!!$C<&.fB]&.fBa?iU0,
+BDFChar: 108 126 7 0 6 -3 10
+!!!!E<(Huhzz
+BDFChar: 109 160 7 0 6 -3 10
+zzzz
+BDFChar: 110 161 7 0 6 -3 10
+z&.egA&.fBa&-)\1
+BDFChar: 111 162 7 0 6 -3 10
+!!!QA3(-"s6oY_hz
+BDFChar: 112 163 7 0 6 -3 10
+!!!!9+<YnO+<Z%3z
+BDFChar: 113 164 7 0 6 -3 10
+z6oZSS6i[2ez
+BDFChar: 114 165 7 0 6 -3 10
+!!!!e-kLb;Hk6hhz
+BDFChar: 115 166 7 0 6 -3 10
+!!!!1&.fBQ&.fBaz
+BDFChar: 117 169 7 0 6 -3 10
+!!!"DKTr:.P_=8]z
+BDFChar: 118 171 7 0 6 -3 10
+z!!!WW80efJz
+BDFChar: 119 173 7 0 6 -3 10
+z!!!"Hzz
+BDFChar: 120 176 7 0 6 -3 10
+!!!!Q84YE7zz
+BDFChar: 121 180 7 0 6 -3 10
+!!!99zzz
+BDFChar: 122 184 7 0 6 -3 10
+zz!!!!)#S6t9
+BDFChar: 123 187 7 0 6 -3 10
+z!!#P8&gU!Jz
+BDFChar: 124 191 7 0 6 -3 10
+z&.egA&0O5+2uipY
+BDFChar: 125 192 7 0 6 -3 10
+!$DgQ&.g6<Hpg@&z
+BDFChar: 126 193 7 0 6 -3 10
+!!j,9&.g6<Hpg@&z
+BDFChar: 127 194 7 0 6 -3 10
+!"^OY&.g6<Hpg@&z
+BDFChar: 128 195 7 0 6 -3 10
+!&RdX&.g6<Hpg@&z
+BDFChar: 129 196 7 0 6 -3 10
+!%7gY&1AqTHpg@&z
+BDFChar: 130 197 7 0 6 -3 10
+!"^P,&.g6<Hpg@&z
+BDFChar: 131 198 7 0 6 -3 10
+!!!!?(aq!bGXtR0z
+BDFChar: 132 199 7 0 6 -3 10
+!!!!=+@&1W5Th$P#S6t9
+BDFChar: 133 200 7 0 6 -3 10
+!$DgQHpBrA5X9\sz
+BDFChar: 134 201 7 0 6 -3 10
+!!j,9HpBrA5X9\sz
+BDFChar: 135 202 7 0 6 -3 10
+!"^OYHpBrA5X9\sz
+BDFChar: 136 203 7 0 6 -3 10
+!%7hp5X9QZ5X9\sz
+BDFChar: 137 204 7 0 6 -3 10
+!$DgQHk6i#&.j3hz
+BDFChar: 138 205 7 0 6 -3 10
+!!j,9Hk6i#&.j3hz
+BDFChar: 139 206 7 0 6 -3 10
+!"^OYHk6i#&.j3hz
+BDFChar: 140 207 7 0 6 -3 10
+!%7hp&.fBa&.j3hz
+BDFChar: 141 208 7 0 6 -3 10
+!!!"<84;N,6qD7sz
+BDFChar: 142 209 7 0 6 -3 10
+!&RdX6tB7j6psECz
+BDFChar: 143 210 7 0 6 -3 10
+!$DgQ3(-/&6ps!7z
+BDFChar: 144 211 7 0 6 -3 10
+!!j,93(-/&6ps!7z
+BDFChar: 145 212 7 0 6 -3 10
+!"^OY3(-/&6ps!7z
+BDFChar: 146 213 7 0 6 -3 10
+!&RdX3(-/&6ps!7z
+BDFChar: 147 214 7 0 6 -3 10
+!%7h,6psF26ps!7z
+BDFChar: 148 215 7 0 6 -3 10
+z!(84H-q"%8z
+BDFChar: 149 216 7 0 6 -3 10
+!!!-]9MADbA7RYbz
+BDFChar: 150 217 7 0 6 -3 10
+!$DgQ6psF26ps!7z
+BDFChar: 151 218 7 0 6 -3 10
+!!j,96psF26ps!7z
+BDFChar: 152 219 7 0 6 -3 10
+!"^OY6psF26ps!7z
+BDFChar: 153 220 7 0 6 -3 10
+!%7h86psF26ps!7z
+BDFChar: 154 221 7 0 6 -3 10
+!!j-(6msGp&.fBQz
+BDFChar: 155 222 7 0 6 -3 10
+!!!!aGXOqf7!Lrsz
+BDFChar: 156 223 7 0 6 -3 10
+!!!!Y6qCEJ6pt,Wz
+BDFChar: 157 224 7 0 6 -3 10
+!!",Q!&t*D6ps-;z
+BDFChar: 158 225 7 0 6 -3 10
+!!!99!&t*D6ps-;z
+BDFChar: 159 226 7 0 6 -3 10
+!"^OY!&t*D6ps-;z
+BDFChar: 160 227 7 0 6 -3 10
+!!"iX!&t*D6ps-;z
+BDFChar: 161 228 7 0 6 -3 10
+!!!!I!&t*D6ps-;z
+BDFChar: 162 229 7 0 6 -3 10
+!#Qsu!&t*D6ps-;z
+BDFChar: 163 230 7 0 6 -3 10
+z!,N9sOH=>[z
+BDFChar: 164 231 7 0 6 -3 10
+z!'EM35X7F;#S6t9
+BDFChar: 165 232 7 0 6 -3 10
+!!",Q!'!Ao5X7F3z
+BDFChar: 166 233 7 0 6 -3 10
+!!!99!'!Ao5X7F3z
+BDFChar: 167 234 7 0 6 -3 10
+!"^OY!'!Ao5X7F3z
+BDFChar: 168 235 7 0 6 -3 10
+!!!!I!'!Ao5X7F3z
+BDFChar: 169 236 7 0 6 -3 10
+!!",Q!,rJ\&.j3hz
+BDFChar: 170 237 7 0 6 -3 10
+!!!99!,rJ\&.j3hz
+BDFChar: 171 238 7 0 6 -3 10
+!"^OY!,rJ\&.j3hz
+BDFChar: 172 239 7 0 6 -3 10
+!!!!I!,rJ\&.j3hz
+BDFChar: 173 240 7 0 6 -3 10
+!$iD+"?](?6ps!7z
+BDFChar: 174 241 7 0 6 -3 10
+!!"iX!-gn"6psECz
+BDFChar: 175 242 7 0 6 -3 10
+!!",Q!'!A76ps!7z
+BDFChar: 176 243 7 0 6 -3 10
+!!!99!'!A76ps!7z
+BDFChar: 177 244 7 0 6 -3 10
+!"^OY!'!A76ps!7z
+BDFChar: 178 245 7 0 6 -3 10
+!!"iX!'!A76ps!7z
+BDFChar: 179 246 7 0 6 -3 10
+!!!!I!'!A76ps!7z
+BDFChar: 180 247 7 0 6 -3 10
+z&.ehh!"]\Az
+BDFChar: 181 248 7 0 6 -3 10
+z"?9(S<+IsRz
+BDFChar: 182 249 7 0 6 -3 10
+!!",Q!(94C6ps-;z
+BDFChar: 183 250 7 0 6 -3 10
+!!!99!(94C6ps-;z
+BDFChar: 184 251 7 0 6 -3 10
+!"^OY!(94C6ps-;z
+BDFChar: 185 252 7 0 6 -3 10
+!!!!I!(94C6ps-;z
+BDFChar: 186 253 7 0 6 -3 10
+!!!99!(94C6ps-?2uipY
+BDFChar: 187 254 7 0 6 -3 10
+!!!!a5^5[b6pu8b5QCca
+BDFChar: 188 255 7 0 6 -3 10
+!!!!I!(94C6ps-?2uipY
+BDFChar: 189 0 7 0 6 -3 10
+!!!"H6psF26puD&z
+EndBitmapFont
+BitmapFont: 15 190 12 3 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--15-108-100-100-C-80-ISO8859-1"
+SIZE 1 "15 100 100"
+FONTBOUNDINGBOX 1 "8 15 0 -3"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 15
+POINT_SIZE 18 108
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 80
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 8
+X_HEIGHT 18 6
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 8
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 3
+FONT_ASCENT 18 12
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 8 0 7 -3 11
+<N9'!<N9'!<N9'!<N9%!
+BDFChar: 1 7 8 0 7 -3 11
+z3(-/&2uipYz
+BDFChar: 2 11 8 0 7 -3 11
+#RC\A#RC\Ap](9oz
+BDFChar: 3 12 8 0 7 -3 11
+zzp]q-2#RC\9
+BDFChar: 4 13 8 0 7 -3 11
+zz%gWFH#RC\9
+BDFChar: 5 14 8 0 7 -3 11
+#RC\A#RC\A%fcS0z
+BDFChar: 6 15 8 0 7 -3 11
+#RC\A#RC\Ars/l9#RC\9
+BDFChar: 7 18 8 0 7 -3 11
+zzrr<$!z
+BDFChar: 8 21 8 0 7 -3 11
+#RC\A#RC\A%gWFH#RC\9
+BDFChar: 9 22 8 0 7 -3 11
+#RC\A#RC\Ap]q-2#RC\9
+BDFChar: 10 23 8 0 7 -3 11
+#RC\A#RC\Arr<$!z
+BDFChar: 11 24 8 0 7 -3 11
+zzrs/l9#RC\9
+BDFChar: 12 25 8 0 7 -3 11
+#RC\A#RC\A#RC\A#RC\9
+BDFChar: 13 30 8 0 7 -3 11
+z%M98"&.gikz
+BDFChar: 14 32 8 0 7 -3 11
+zzzz
+BDFChar: 15 33 8 0 7 -3 11
+!!!!1&.fBa!!!QAz
+BDFChar: 16 34 8 0 7 -3 11
+!!!!E,U=W8zz
+BDFChar: 17 35 8 0 7 -3 11
+z,U@ga,^q!az
+BDFChar: 18 36 8 0 7 -3 11
+!!!91*ZuRF!WkIi#QOi)
+BDFChar: 19 37 8 0 7 -3 11
+!!!!Q8P1fF(+DfZz
+BDFChar: 20 38 8 0 7 -3 11
+!!!!Q84YEh8Oc00z
+BDFChar: 21 39 8 0 7 -3 11
+!!!!1&.fBQzz
+BDFChar: 22 40 8 0 7 -3 11
+!!!!%#RCtQ&.fBY#Qt,-
+BDFChar: 23 41 8 0 7 -3 11
+!!!!A&.f*Q#RC\I&0LrQ
+BDFChar: 24 42 8 0 7 -3 11
+z!!"8]IMa=1z
+BDFChar: 25 43 8 0 7 -3 11
+z!!ii9Ig?;cz
+BDFChar: 26 44 8 0 7 -3 11
+zz!!!iQ#RCtA
+BDFChar: 27 45 8 0 7 -3 11
+zzIK0?Jz
+BDFChar: 28 46 8 0 7 -3 11
+zz!!!iQz
+BDFChar: 29 47 8 0 7 -3 11
+z"9\u9&.fs,5X5;L
+BDFChar: 30 48 8 0 7 -3 11
+z4@2M0;IVsTz
+BDFChar: 31 49 8 0 7 -3 11
+z#T+rq#RC]"z
+BDFChar: 32 50 8 0 7 -3 11
+z4@0)P#S8,-z
+BDFChar: 33 51 8 0 7 -3 11
+zIKTor!Wk\Nz
+BDFChar: 34 52 8 0 7 -3 11
+z":Pti7",7Az
+BDFChar: 35 53 8 0 7 -3 11
+zIR$/G!Wk\Nz
+BDFChar: 36 54 8 0 7 -3 11
+z(a)(k6:+"$z
+BDFChar: 37 55 8 0 7 -3 11
+zIKBWT#RCtQz
+BDFChar: 38 56 8 0 7 -3 11
+z4@2@s6:+"$z
+BDFChar: 39 57 8 0 7 -3 11
+z4@2A$4otj(z
+BDFChar: 40 58 8 0 7 -3 11
+z!#QOQ!!!iQz
+BDFChar: 41 59 8 0 7 -3 11
+z!#QOQ!!!iQ#RCtA
+BDFChar: 42 60 8 0 7 -3 11
+z!!EQ=+:ne]z
+BDFChar: 43 61 8 0 7 -3 11
+z!!%HJ!.FnJz
+BDFChar: 44 62 8 0 7 -3 11
+z!$DgY":,P]z
+BDFChar: 45 63 8 0 7 -3 11
+!!!!]63IQ*!!!QAz
+BDFChar: 46 64 8 0 7 -3 11
+!!!!=,!f"%;,^1S+<LR`
+BDFChar: 47 65 8 0 7 -3 11
+z(aMF7IR6@fz
+BDFChar: 48 66 8 0 7 -3 11
+zHpU/I6:+"dz
+BDFChar: 49 67 8 0 7 -3 11
+z*[!^55X6G5z
+BDFChar: 50 68 8 0 7 -3 11
+zGXOkb6:+(bz
+BDFChar: 51 69 8 0 7 -3 11
+zIR$/G5X7S`z
+BDFChar: 52 70 8 0 7 -3 11
+zIR$/G5X7S"z
+BDFChar: 53 71 8 0 7 -3 11
+z*[!^57RA:?z
+BDFChar: 54 72 8 0 7 -3 11
+z6:+"f6:+"*z
+BDFChar: 55 73 8 0 7 -3 11
+z4pVE"#RC]"z
+BDFChar: 56 74 8 0 7 -3 11
+z!WiE)!^]49z
+BDFChar: 57 75 8 0 7 -3 11
+z6:=@`E(EA`z
+BDFChar: 58 76 8 0 7 -3 11
+z5X7S"5X7S`z
+BDFChar: 59 77 8 0 7 -3 11
+z6"<nd8O5X.z
+BDFChar: 60 78 8 0 7 -3 11
+z6=Nhb7RBF.z
+BDFChar: 61 79 8 0 7 -3 11
+z4@2A$6:+"$z
+BDFChar: 62 80 8 0 7 -3 11
+zHpU.dHpBq^z
+BDFChar: 63 81 8 0 7 -3 11
+z4@2A$6:+"$"9JQ'
+BDFChar: 64 82 8 0 7 -3 11
+zHpU.dHq6Xlz
+BDFChar: 65 83 8 0 7 -3 11
+z5!V@e$j$KXz
+BDFChar: 66 84 8 0 7 -3 11
+zIg?;c#RC\Az
+BDFChar: 67 85 8 0 7 -3 11
+z6:+"*6:+"$z
+BDFChar: 68 86 8 0 7 -3 11
+z6:+"*,U=3Dz
+BDFChar: 69 87 8 0 7 -3 11
+z5s[e&8P)olz
+BDFChar: 70 88 8 0 7 -3 11
+z6:)q7(aMF7z
+BDFChar: 71 89 8 0 7 -3 11
+z5sZ\/#RC\Az
+BDFChar: 72 90 8 0 7 -3 11
+zIf]`Y&0O5fz
+BDFChar: 73 91 8 0 7 -3 11
+!!!!?&.fBa&.fBa&0:fO
+BDFChar: 74 92 8 0 7 -3 11
+z5X6G7&.f*Q"9\])
+BDFChar: 75 93 8 0 7 -3 11
+!!!"D#RC\A#RC\A#^?=L
+BDFChar: 76 94 8 0 7 -3 11
+z&1BpHzz
+BDFChar: 77 95 8 0 7 -3 11
+zzz!<3$!
+BDFChar: 78 96 8 0 7 -3 11
+!!!!1#Qt,-zz
+BDFChar: 79 97 8 0 7 -3 11
+z!!#+_5!hS"z
+BDFChar: 80 98 8 0 7 -3 11
+!!!!a5X8R`6:+"dz
+BDFChar: 81 99 8 0 7 -3 11
+z!!#,J5X7Xuz
+BDFChar: 82 100 8 0 7 -3 11
+!!!!#!WkPP6:+.&z
+BDFChar: 83 101 8 0 7 -3 11
+z!!#,JIR$.^z
+BDFChar: 84 102 8 0 7 -3 11
+!!!!/&.j:%&.fBaz
+BDFChar: 85 103 8 0 7 -3 11
+z!!#2L6:+"&!WkIa
+BDFChar: 86 104 8 0 7 -3 11
+!!!!a5X8R`6:+"*z
+BDFChar: 87 105 8 0 7 -3 11
+!!!!)#QQgi#RC]"z
+BDFChar: 88 106 8 0 7 -3 11
+!!!!%"99DE"9\i1"9^[a
+BDFChar: 89 107 8 0 7 -3 11
+!!!!a5X7_.:hW6`z
+BDFChar: 90 108 8 0 7 -3 11
+!!!"<&.fBa&.fB_z
+BDFChar: 91 109 8 0 7 -3 11
+z!!%168P)KFz
+BDFChar: 92 110 8 0 7 -3 11
+z!!$856:+"*z
+BDFChar: 93 111 8 0 7 -3 11
+z!!#,J6:+"$z
+BDFChar: 94 112 8 0 7 -3 11
+z!!$856:+"d5X7R7
+BDFChar: 95 113 8 0 7 -3 11
+z!!#2L6:+.&!WiE'
+BDFChar: 96 114 8 0 7 -3 11
+z!!$855X7S"z
+BDFChar: 97 115 8 0 7 -3 11
+z!!#2J0FS#1z
+BDFChar: 98 116 8 0 7 -3 11
+z&.j:%&.fB_z
+BDFChar: 99 117 8 0 7 -3 11
+z!!#>P6:+.&z
+BDFChar: 100 118 8 0 7 -3 11
+z!!#>P,U=3Dz
+BDFChar: 101 119 8 0 7 -3 11
+z!!#;V8P)K3z
+BDFChar: 102 120 8 0 7 -3 11
+z!!#>2(`4Mbz
+BDFChar: 103 121 8 0 7 -3 11
+z!!#>P6:+.&!WkIa
+BDFChar: 104 122 8 0 7 -3 11
+z!!%HN#S8,-z
+BDFChar: 105 123 8 0 7 -3 11
+!!!!'#RC\A0F.pi#R18/
+BDFChar: 106 124 8 0 7 -3 11
+!!!91#RC\A#RC\A#RCD1
+BDFChar: 107 125 8 0 7 -3 11
+!!!",&.fBa$kNs]&7>J<
+BDFChar: 108 126 8 0 7 -3 11
+z0hFh7zz
+BDFChar: 109 160 8 0 7 -3 11
+zzzz
+BDFChar: 110 161 8 0 7 -3 11
+z!!!QA!!!QA&.fBQ
+BDFChar: 111 162 8 0 7 -3 11
+!!!!)#X1gN84buN#QOi)
+BDFChar: 112 163 8 0 7 -3 11
+z%M98"&.gikz
+BDFChar: 113 164 8 0 7 -3 11
+z!(&dn,WnBnz
+BDFChar: 114 165 8 0 7 -3 11
+z5p@",#X/M"z
+BDFChar: 115 166 8 0 7 -3 11
+z#RC\A!!!91#RCD1
+BDFChar: 116 168 8 0 7 -3 11
+!$ifizzz
+BDFChar: 117 169 8 0 7 -3 11
+z*$S*S;,&5Sz
+BDFChar: 118 171 8 0 7 -3 11
+z!!s8`80efSz
+BDFChar: 119 173 8 0 7 -3 11
+zzIK0?Jz
+BDFChar: 120 176 8 0 7 -3 11
+z3(-/&2uipYz
+BDFChar: 122 184 8 0 7 -3 11
+zzz#RE*a
+BDFChar: 123 187 8 0 7 -3 11
+z!(\@J#neLSz
+BDFChar: 124 191 8 0 7 -3 11
+z!!!91!!!99+<hd*
+BDFChar: 125 192 8 0 7 -3 11
+!$DgQ(`4MD,^r'Hz
+BDFChar: 126 193 8 0 7 -3 11
+!!EQ-(`4MD,^r'Hz
+BDFChar: 127 194 8 0 7 -3 11
+!#Qs](`4MD,^r'Hz
+BDFChar: 128 195 8 0 7 -3 11
+!&@4J(`4MD,^r'Hz
+BDFChar: 129 196 8 0 7 -3 11
+!$ifi(`4MD,^r'Hz
+BDFChar: 130 197 8 0 7 -3 11
+!#Qt,(`4MD,^r'Hz
+BDFChar: 131 198 8 0 7 -3 11
+z*uHCY.!S9Yz
+BDFChar: 132 199 8 0 7 -3 11
+z*[!^55X6G5#RE*a
+BDFChar: 133 200 8 0 7 -3 11
+!$DgQIR$/G5X7S`z
+BDFChar: 134 201 8 0 7 -3 11
+!!EQ-IR$/G5X7S`z
+BDFChar: 135 202 8 0 7 -3 11
+!#Qs]IR$/G5X7S`z
+BDFChar: 136 203 8 0 7 -3 11
+!$ifiIR$/G5X7S`z
+BDFChar: 137 204 8 0 7 -3 11
+!"]D94pVE"#RC]"z
+BDFChar: 138 205 8 0 7 -3 11
+!!EQ-4pVE"#RC]"z
+BDFChar: 139 206 8 0 7 -3 11
+!!j8=4pVE"#RC]"z
+BDFChar: 140 207 8 0 7 -3 11
+!#-+I4pVE"#RC]"z
+BDFChar: 141 208 8 0 7 -3 11
+z4<bqo+X&$lz
+BDFChar: 142 209 8 0 7 -3 11
+!&@4J6=Nhb7RBF.z
+BDFChar: 143 210 8 0 7 -3 11
+!"]D9*$R[75sZ\7z
+BDFChar: 144 211 8 0 7 -3 11
+!!EQ-*$R[75sZ\7z
+BDFChar: 145 212 8 0 7 -3 11
+!!j8=*$R[75sZ\7z
+BDFChar: 146 213 8 0 7 -3 11
+!#[*`*$R[75sZ\7z
+BDFChar: 147 214 8 0 7 -3 11
+!$WTe*$R[75sZ\7z
+BDFChar: 148 215 8 0 7 -3 11
+z!!"2W#S\H_z
+BDFChar: 149 216 8 0 7 -3 11
+!!!!"*[4$E8PpZo5QCca
+BDFChar: 150 217 8 0 7 -3 11
+!$DgQ6:+"*6:+"$z
+BDFChar: 151 218 8 0 7 -3 11
+!!EQ-6:+"*6:+"$z
+BDFChar: 152 219 8 0 7 -3 11
+!#Qs]6:+"*6:+"$z
+BDFChar: 153 220 8 0 7 -3 11
+!$ifi6:+"*6:+"$z
+BDFChar: 154 221 8 0 7 -3 11
+!$WTe5sZ\/#RC\Az
+BDFChar: 155 222 8 0 7 -3 11
+z5^Ymb6:-&bz
+BDFChar: 156 223 8 0 7 -3 11
+z4@2G06:+"4z
+BDFChar: 157 224 8 0 7 -3 11
+!!!!A&-+fo5!hS"z
+BDFChar: 158 225 8 0 7 -3 11
+!!!!%#QQsg5!hS"z
+BDFChar: 159 226 8 0 7 -3 11
+!!!!9,QKq.5!hS"z
+BDFChar: 160 227 8 0 7 -3 11
+!!!!S9E70V5!hS"z
+BDFChar: 161 228 8 0 7 -3 11
+!!!!E,QKq.5!hS"z
+BDFChar: 162 229 8 0 7 -3 11
+!#Qt,(]ZZ"5!hS"z
+BDFChar: 163 230 8 0 7 -3 11
+z!!"n`5=e=(z
+BDFChar: 164 231 8 0 7 -3 11
+z!!#,J5X7Xu#RE*a
+BDFChar: 165 232 8 0 7 -3 11
+!!!!A&-+gZIR$.^z
+BDFChar: 166 233 8 0 7 -3 11
+!!!!%#QQtRIR$.^z
+BDFChar: 167 234 8 0 7 -3 11
+!!!!9,QKqnIR$.^z
+BDFChar: 168 235 8 0 7 -3 11
+!!!!E,QKqnIR$.^z
+BDFChar: 169 236 8 0 7 -3 11
+!!!!A&-+Zq#RC]"z
+BDFChar: 170 237 8 0 7 -3 11
+!!!!%#QQgi#RC]"z
+BDFChar: 171 238 8 0 7 -3 11
+!!!!9,QKe0#RC]"z
+BDFChar: 172 239 8 0 7 -3 11
+!!!!E,QKe0#RC]"z
+BDFChar: 173 240 8 0 7 -3 11
+!!!W?3!;?16:+"$z
+BDFChar: 174 241 8 0 7 -3 11
+!!!!S9E9H,6:+"*z
+BDFChar: 175 242 8 0 7 -3 11
+!!!!A&-+gZ6:+"$z
+BDFChar: 176 243 8 0 7 -3 11
+!!!!%#QQtR6:+"$z
+BDFChar: 177 244 8 0 7 -3 11
+!!!!9,QKqn6:+"$z
+BDFChar: 178 245 8 0 7 -3 11
+!!!!S9E71A6:+"$z
+BDFChar: 179 246 8 0 7 -3 11
+!!!!E,QKqn6:+"$z
+BDFChar: 180 247 8 0 7 -3 11
+z!#QOQIK13%z
+BDFChar: 181 248 8 0 7 -3 11
+z!!58P8lB+\5QCca
+BDFChar: 182 249 8 0 7 -3 11
+!!!!A&-,$`6:+"&z
+BDFChar: 183 250 8 0 7 -3 11
+!!!!%#QR1X6:+"&z
+BDFChar: 184 251 8 0 7 -3 11
+!!!!9,QL.t6:+"&z
+BDFChar: 185 252 8 0 7 -3 11
+!!!!E,QL.t6:+"&z
+BDFChar: 186 253 8 0 7 -3 11
+!!!!%#QR1X6:+"&!WkIa
+BDFChar: 187 254 8 0 7 -3 11
+!!!!a5X9]`6:+"d5X7R7
+BDFChar: 188 255 8 0 7 -3 11
+!!!!E,QL.t6:+"&!WkIa
+BDFChar: 189 0 8 0 7 -3 11
+zIR6@f6:+"fz
+EndBitmapFont
+BitmapFont: 16 190 12 4 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--16-116-100-100-C-80-ISO8859-1"
+SIZE 1 "16 100 100"
+FONTBOUNDINGBOX 1 "8 16 0 -4"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 16
+POINT_SIZE 18 116
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 80
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 9
+X_HEIGHT 18 7
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 8
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 4
+FONT_ASCENT 18 12
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 8 0 7 -4 11
+<N9'!<N9'!<N9'!<N9'!
+BDFChar: 1 7 8 0 7 -4 11
+!!!!Y6psF&zz
+BDFChar: 2 11 8 0 7 -4 11
+#RC\A#RC_2zz
+BDFChar: 3 12 8 0 7 -4 11
+z!!!#o#RC\A#RC\A
+BDFChar: 4 13 8 0 7 -4 11
+z!!!!0#RC\A#RC\A
+BDFChar: 5 14 8 0 7 -4 11
+#RC\A#RC\Hzz
+BDFChar: 6 15 8 0 7 -4 11
+#RC\A#RC_9#RC\A#RC\A
+BDFChar: 7 18 8 0 7 -4 11
+z!!!$!zz
+BDFChar: 8 21 8 0 7 -4 11
+#RC\A#RC\H#RC\A#RC\A
+BDFChar: 9 22 8 0 7 -4 11
+#RC\A#RC_2#RC\A#RC\A
+BDFChar: 10 23 8 0 7 -4 11
+#RC\A#RC_9zz
+BDFChar: 11 24 8 0 7 -4 11
+z!!!$!#RC\A#RC\A
+BDFChar: 12 25 8 0 7 -4 11
+#RC\A#RC\A#RC\A#RC\A
+BDFChar: 13 30 8 0 7 -4 11
+!!!!=+s8$'+<Y]`z
+BDFChar: 14 32 8 0 7 -4 11
+zzzz
+BDFChar: 15 33 8 0 7 -4 11
+!!!QA&.fBa!!!QAz
+BDFChar: 16 34 8 0 7 -4 11
+!$ig8,QIfEzz
+BDFChar: 17 35 8 0 7 -4 11
+!!!!E,^q!a,^q!az
+BDFChar: 18 36 8 0 7 -4 11
+!!!91*ZuRF!WkIi#QOi)
+BDFChar: 19 37 8 0 7 -4 11
+!!!!Q8P1fF(+DfZz
+BDFChar: 20 38 8 0 7 -4 11
+!!"]D84YEh8Oc00z
+BDFChar: 21 39 8 0 7 -4 11
+!"]\Q&-)\1zz
+BDFChar: 22 40 8 0 7 -4 11
+!!!--#S7OY&.fBY#Qt,-
+BDFChar: 23 41 8 0 7 -4 11
+!!",Q&-rOI#RC\I&0LrQ
+BDFChar: 24 42 8 0 7 -4 11
+z!$iD1(aK(]z
+BDFChar: 25 43 8 0 7 -4 11
+z#RC]c#RC\9z
+BDFChar: 26 44 8 0 7 -4 11
+zz!!!iQ#RCtA
+BDFChar: 27 45 8 0 7 -4 11
+z!!!"Jzz
+BDFChar: 28 46 8 0 7 -4 11
+zz!!!iQz
+BDFChar: 29 47 8 0 7 -4 11
+!!!'%"9\u9&.fs,5X5;L
+BDFChar: 30 48 8 0 7 -4 11
+!!!!]6:ORF@R<CDz
+BDFChar: 31 49 8 0 7 -4 11
+!!!!)(aoXq#RC]"z
+BDFChar: 32 50 8 0 7 -4 11
+!!!!]6372k#S8,-z
+BDFChar: 33 51 8 0 7 -4 11
+!!!"J":,tK!Wk\Nz
+BDFChar: 34 52 8 0 7 -4 11
+!!!!%$kssTIKTcVz
+BDFChar: 35 53 8 0 7 -4 11
+!!!"J5X9\u!Wk\Nz
+BDFChar: 36 54 8 0 7 -4 11
+!!!!=+@&2>6:+"$z
+BDFChar: 37 55 8 0 7 -4 11
+!!!"J!X&W3#S7OYz
+BDFChar: 38 56 8 0 7 -4 11
+!!!!]6:+"$6:+"$z
+BDFChar: 39 57 8 0 7 -4 11
+!!!!]6:+"&!WiKaz
+BDFChar: 40 58 8 0 7 -4 11
+z!#QOQ!!!iQz
+BDFChar: 41 59 8 0 7 -4 11
+z!#QOQ!!!iQ#RCtA
+BDFChar: 42 60 8 0 7 -4 11
+!!!!%#S8+D+:ne]z
+BDFChar: 43 61 8 0 7 -4 11
+z!!%HJ!.FnJz
+BDFChar: 44 62 8 0 7 -4 11
+!!!!A&-rC?":,P]z
+BDFChar: 45 63 8 0 7 -4 11
+!!#,J!X&c?!!!QAz
+BDFChar: 46 64 8 0 7 -4 11
+!!!u_5u1?T;,^1S+<LR`
+BDFChar: 47 65 8 0 7 -4 11
+!!!!9,XOgaIR6@fz
+BDFChar: 48 66 8 0 7 -4 11
+!!!"H6:+"d6:+"dz
+BDFChar: 49 67 8 0 7 -4 11
+!!!!?+@&1W5X6G5z
+BDFChar: 50 68 8 0 7 -4 11
+!!!"D6pa4,6:+(bz
+BDFChar: 51 69 8 0 7 -4 11
+!!!"J5X7S^5X7S`z
+BDFChar: 52 70 8 0 7 -4 11
+!!!"J5X7S^5X7S"z
+BDFChar: 53 71 8 0 7 -4 11
+!!!!?+@&1]6:)k;z
+BDFChar: 54 72 8 0 7 -4 11
+!!!!c6:+"f6:+"*z
+BDFChar: 55 73 8 0 7 -4 11
+!!!!_#RC\A#RC]"z
+BDFChar: 56 74 8 0 7 -4 11
+!!!!#!WiE)!^]49z
+BDFChar: 57 75 8 0 7 -4 11
+!!!!c6qC-^:e3u@z
+BDFChar: 58 76 8 0 7 -4 11
+!!!!a5X7S"5X7S`z
+BDFChar: 59 77 8 0 7 -4 11
+!!!!b@oZ)l5s[e&z
+BDFChar: 60 78 8 0 7 -4 11
+!!!!c@T#ff6:+"*z
+BDFChar: 61 79 8 0 7 -4 12
+z4@2A$6:+"*49,?]z
+BDFChar: 62 80 8 0 7 -4 11
+!!!"H6:+"d5X7S"z
+BDFChar: 63 81 8 0 7 -4 12
+z4@2A$6:+"*49kidz
+BDFChar: 64 82 8 0 7 -4 11
+!!!"H6:+"d845d2z
+BDFChar: 65 83 8 0 7 -4 11
+!!!!_5X6G/"9JXPz
+BDFChar: 66 84 8 0 7 -4 11
+!!!"K#RC\A#RC\Az
+BDFChar: 67 85 8 0 7 -4 11
+!!!!c6:+"*6:+"$z
+BDFChar: 68 86 8 0 7 -4 11
+!!!!c6:+"*,U=3Dz
+BDFChar: 69 87 8 0 7 -4 11
+!!!!b5s[e.8P)olz
+BDFChar: 70 88 8 0 7 -4 11
+!!!!b5p@!K'I#h/z
+BDFChar: 71 89 8 0 7 -4 11
+!!!!b5p@!K#RC\Az
+BDFChar: 72 90 8 0 7 -4 11
+!!!"J":,8E&0N*Ez
+BDFChar: 73 91 8 0 7 -4 11
+!!"&O&.fBa&.fBa&0:fO
+BDFChar: 74 92 8 0 7 -4 11
+!!#8L+<V4,#RCP9!Wi?%
+BDFChar: 75 93 8 0 7 -4 11
+!!%6L#RC\A#RC\A#^?=L
+BDFChar: 76 94 8 0 7 -4 11
+!!!QY6i[2ezz
+BDFChar: 77 95 8 0 7 -4 11
+zzz!<3$!
+BDFChar: 78 96 8 0 7 -4 11
+!$DgY"98E%zz
+BDFChar: 79 97 8 0 7 -4 12
+z!!#+_!^8q?3WK-[z
+BDFChar: 80 98 8 0 7 -4 12
+!!!!a5X8R`6:+"J>Q=a(z
+BDFChar: 81 99 8 0 7 -4 11
+z!'ES55X7Xuz
+BDFChar: 82 100 8 0 7 -4 12
+!!!!#!WkDP6:+".3WK-[z
+BDFChar: 83 101 8 0 7 -4 11
+z!'ES7IR$.^z
+BDFChar: 84 102 8 0 7 -4 11
+!!!K?&:P0%&.fBaz
+BDFChar: 85 103 8 0 7 -4 12
+z!!#2N6ps""4@2@sz
+BDFChar: 86 104 8 0 7 -4 12
+!!!!a5X8R`6:+"*63$ucz
+BDFChar: 87 105 8 0 7 -4 11
+!!!91!&t5i#RC]"z
+BDFChar: 88 106 8 0 7 -4 11
+!!!-)!#u+E"9\i1"9^[a
+BDFChar: 89 107 8 0 7 -4 11
+!!#8L5X\.>E(EA`z
+BDFChar: 90 108 8 0 7 -4 12
+!!!"<&.fBa&.fBa%KHJ/z
+BDFChar: 91 109 8 0 7 -4 12
+z!!%168P)KF8H8_jz
+BDFChar: 92 110 8 0 7 -4 12
+z!!$856:+"*63$ucz
+BDFChar: 93 111 8 0 7 -4 11
+z!'ES76:+"$z
+BDFChar: 94 112 8 0 7 -4 12
+z!!$856:+"J>X1P>z
+BDFChar: 95 113 8 0 7 -4 12
+z!!#&L6:+".3W]?az
+BDFChar: 96 114 8 0 7 -4 12
+z!!$855X7S"5QCcaz
+BDFChar: 97 115 8 0 7 -4 11
+z!'WXj(^'nfz
+BDFChar: 98 116 8 0 7 -4 11
+!!!!1&:P0%&.fB_z
+BDFChar: 99 117 8 0 7 -4 12
+z!!#>P6:+".3WK-[z
+BDFChar: 100 118 8 0 7 -4 11
+z!('"=,U=3Dz
+BDFChar: 101 119 8 0 7 -4 12
+z!!#;V8P)KF2?3^Wz
+BDFChar: 102 120 8 0 7 -4 11
+z!'qeC#S\IKz
+BDFChar: 103 121 8 0 7 -4 12
+z!!#>P6:+".3W]@Fz
+BDFChar: 104 122 8 0 7 -4 11
+z!.G%V&0O5ez
+BDFChar: 105 123 8 0 7 -4 11
+!"KPO&.fE2&.fBa&.S[?
+BDFChar: 106 124 8 0 7 -4 11
+!!ii9#RC\A#RC\A#RCD1
+BDFChar: 107 125 8 0 7 -4 11
+!,r2L#RC\@#RC\A#]KbD
+BDFChar: 108 126 8 0 7 -4 11
+!!"`F7K<Dgzz
+BDFChar: 109 160 8 0 7 -4 11
+zzzz
+BDFChar: 110 161 8 0 7 -4 11
+z!"]\A!"]\Q&.fBQ
+BDFChar: 111 162 8 0 7 -4 11
+!!!91*$RX55U%0R#QOi)
+BDFChar: 112 163 8 0 7 -4 11
+!!!!=+s8$'+<Y]`z
+BDFChar: 113 164 8 0 7 -4 11
+z69HM=,WnBnz
+BDFChar: 114 165 8 0 7 -4 11
+!!!!b+qt;H#X/M"z
+BDFChar: 115 166 8 0 7 -4 11
+!!!!)#RC\9!!!91#RCD1
+BDFChar: 116 168 8 0 7 -4 11
++sI!ezzz
+BDFChar: 117 169 8 0 7 -4 11
+!!!!=,!eq#;,'>#)uos=
+BDFChar: 118 171 8 0 7 -4 11
+z!!s8`80efSz
+BDFChar: 119 173 8 0 7 -4 11
+z!!!"Jzz
+BDFChar: 120 176 8 0 7 -4 11
+!!!!Y6psF&zz
+BDFChar: 122 184 8 0 7 -4 11
+zzz#RE*a
+BDFChar: 123 187 8 0 7 -4 11
+z!(\@J#neLSz
+BDFChar: 124 191 8 0 7 -4 11
+z!!ii1!!j,Y5XIR5
+BDFChar: 125 192 8 0 7 -4 11
++:nMi(aL@PIR6@fz
+BDFChar: 126 193 8 0 7 -4 11
+":+uE(aL@PIR6@fz
+BDFChar: 127 194 8 0 7 -4 11
+(aK(u(aL@PIR6@fz
+BDFChar: 128 195 8 0 7 -4 11
+1/%Zb(aL@PIR6@fz
+BDFChar: 129 196 8 0 7 -4 11
+,U<@,(aL@PIR6@fz
+BDFChar: 130 197 8 0 7 -4 11
+(aL@D(aL@PIR6@fz
+BDFChar: 131 198 8 0 7 -4 11
+!!!!0'GMf?4@DS-z
+BDFChar: 132 199 8 0 7 -4 11
+!!!!?+@&1W5X6G5#RE*a
+BDFChar: 133 200 8 0 7 -4 11
++:nO%5X7S^5X7S`z
+BDFChar: 134 201 8 0 7 -4 11
+":,!V5X7S^5X7S`z
+BDFChar: 135 202 8 0 7 -4 11
+(aK*15X7S^5X7S`z
+BDFChar: 136 203 8 0 7 -4 11
+,U<A=5X7S^5X7S`z
+BDFChar: 137 204 8 0 7 -4 11
+&-r8"#RC\A#RC]"z
+BDFChar: 138 205 8 0 7 -4 11
+":+uk#RC\A#RC]"z
+BDFChar: 139 206 8 0 7 -4 11
+(aK)F#RC\A#RC]"z
+BDFChar: 140 207 8 0 7 -4 11
++sI"N#RC\A#RC]"z
+BDFChar: 141 208 8 0 7 -4 11
+!!!!]+sA+T+X&$lz
+BDFChar: 142 209 8 0 7 -4 11
+1/%[7@T#ff6:+"*z
+BDFChar: 143 210 8 0 7 -4 11
+&-r7U,!eL\5sZ\7z
+BDFChar: 144 211 8 0 7 -4 11
+":+uI,!eL\5sZ\7z
+BDFChar: 145 212 8 0 7 -4 11
+(aK)$,!eL\5sZ\7z
+BDFChar: 146 213 8 0 7 -4 11
+1/%Zf,!eL\5sZ\7z
+BDFChar: 147 214 8 0 7 -4 11
+,U<@0,!eL\5sZ\7z
+BDFChar: 148 215 8 0 7 -4 11
+z!!"2W#S\H_z
+BDFChar: 149 216 8 0 7 -4 11
+!!!'_6:ORF@R<CD5QCca
+BDFChar: 150 217 8 0 7 -4 11
++:nN>6:+"*6:+"$z
+BDFChar: 151 218 8 0 7 -4 11
+":+uo6:+"*6:+"$z
+BDFChar: 152 219 8 0 7 -4 11
+(aK)J6:+"*6:+"$z
+BDFChar: 153 220 8 0 7 -4 11
+,U<@V6:+"*6:+"$z
+BDFChar: 154 221 8 0 7 -4 11
+":+un5p@!K#RC\Az
+BDFChar: 155 222 8 0 7 -4 11
+!!!!a5^Ymb6@;$`z
+BDFChar: 156 223 8 0 7 -4 11
+!!!!]6:=L66:+(Bz
+BDFChar: 157 224 8 0 7 -4 11
+!!",Q!'C;a5!hS"z
+BDFChar: 158 225 8 0 7 -4 11
+!!!--!'C;a5!hS"z
+BDFChar: 159 226 8 0 7 -4 11
+!#Qs]!'C;a5!hS"z
+BDFChar: 160 227 8 0 7 -4 11
+!&@4J!'C;a5!hS"z
+BDFChar: 161 228 8 0 7 -4 11
+!!"8i!'C;a5!hS"z
+BDFChar: 162 229 8 0 7 -4 11
+(aL@D!'C;a5!hS"z
+BDFChar: 163 230 8 0 7 -4 11
+z!&b-D:In#8z
+BDFChar: 164 231 8 0 7 -4 11
+z!'ES55X7Xu#RE*a
+BDFChar: 165 232 8 0 7 -4 11
+!!",Q!'ES7IR$.^z
+BDFChar: 166 233 8 0 7 -4 11
+!!!--!'ES7IR$.^z
+BDFChar: 167 234 8 0 7 -4 11
+!#Qs]!'ES7IR$.^z
+BDFChar: 168 235 8 0 7 -4 11
+!!"8i!'ES7IR$.^z
+BDFChar: 169 236 8 0 7 -4 11
+!!!Q9!&t5i#RC]"z
+BDFChar: 170 237 8 0 7 -4 11
+!!!--!&t5i#RC]"z
+BDFChar: 171 238 8 0 7 -4 11
+!#Qs]!&t5i#RC]"z
+BDFChar: 172 239 8 0 7 -4 11
+!!"8i!&t5i#RC]"z
+BDFChar: 173 240 8 0 7 -4 11
+!!riJ!?ECN5sZ\7z
+BDFChar: 174 241 8 0 7 -4 11
+!&@4J!.7+"6:+"*z
+BDFChar: 175 242 8 0 7 -4 11
+!!!Q9!'ES76:+"$z
+BDFChar: 176 243 8 0 7 -4 11
+!!!--!'ES76:+"$z
+BDFChar: 177 244 8 0 7 -4 11
+!#Qs]!'ES76:+"$z
+BDFChar: 178 245 8 0 7 -4 11
+!&@4J!'ES76:+"$z
+BDFChar: 179 246 8 0 7 -4 11
+!!"8i!'ES76:+"$z
+BDFChar: 180 247 8 0 7 -4 11
+!!!!9(]XPb!!!iQz
+BDFChar: 181 248 8 0 7 -4 11
+z!^&qE;IVsT5QCca
+BDFChar: 182 249 8 0 7 -4 11
+!!",Q!('"=6:+"&z
+BDFChar: 183 250 8 0 7 -4 11
+!!!--!('"=6:+"&z
+BDFChar: 184 251 8 0 7 -4 11
+!#Qs]!('"=6:+"&z
+BDFChar: 185 252 8 0 7 -4 11
+!!"8i!('"=6:+"&z
+BDFChar: 186 253 8 0 7 -4 11
+!!!--!('"=6:+"&!WkIa
+BDFChar: 187 254 8 0 7 -4 11
+!!#8L5[7ba5s\sb5X7R7
+BDFChar: 188 255 8 0 7 -4 11
+!!"8i!('"=6:+"&!WkIa
+BDFChar: 189 0 8 0 7 -4 11
+zIR6@f6:+"fz
+EndBitmapFont
+BitmapFont: 20 190 14 6 1 Misc
+BDFStartProperties: 27
+FONT 1 "-Misc-Tamzen-Medium-R-Normal--20-145-100-100-C-100-ISO8859-1"
+SIZE 1 "20 100 100"
+FONTBOUNDINGBOX 1 "10 20 0 -6"
+FONTNAME_REGISTRY 16 ""
+FOUNDRY 16 "Misc"
+FAMILY_NAME 16 "Tamzen"
+WEIGHT_NAME 16 "Medium"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 20
+POINT_SIZE 18 145
+RESOLUTION_X 19 100
+RESOLUTION_Y 19 100
+SPACING 16 "C"
+AVERAGE_WIDTH 18 100
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+COPYRIGHT 16 "(c) 2015 Scott Fial"
+CAP_HEIGHT 18 11
+X_HEIGHT 18 8
+FONT_VERSION 16 "1.11"
+WEIGHT 19 10
+QUAD_WIDTH 18 10
+DEFAULT_CHAR 19 0
+FONT_DESCENT 18 6
+FONT_ASCENT 18 14
+BDFEndProperties
+Resolution: 100
+BDFChar: 0 2 10 0 9 -6 13
+Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7Wdn)7
+BDFChar: 1 7 10 0 9 -6 13
+zz)uq/_+oiee)uos=zzzzz
+BDFChar: 2 11 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QXW"zzzzz
+BDFChar: 3 12 10 0 9 -6 13
+zzzz!!)co#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 4 13 10 0 9 -6 13
+zzzz!!!PF#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 5 14 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QPCNzzzzz
+BDFChar: 6 15 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QXn?#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 7 18 10 0 9 -6 13
+zzzz!!*&7zzzzz
+BDFChar: 8 21 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QPCN#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 9 22 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QXW"#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 10 23 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QXn?zzzzz
+BDFChar: 11 24 10 0 9 -6 13
+zzzz!!*&7#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 12 25 10 0 9 -6 13
+#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1
+BDFChar: 13 30 10 0 9 -6 13
+zz%KI(@&-*7AIK0oZ&-*7A3<2MKzzz
+BDFChar: 14 32 10 0 9 -6 13
+zzzzzzzzzz
+BDFChar: 15 33 10 0 9 -6 13
+z!!!9)#QP,1#QP,1#QOi)z#QP,1zzz
+BDFChar: 16 34 10 0 9 -6 13
+z+oiee+oieezzzzzzz
+BDFChar: 17 35 10 0 9 -6 13
+z&HECC&HI<2+oiee+oieerr>Fe6i]UTzzz
+BDFChar: 18 36 10 0 9 -6 13
+!!!9)#QP,14odkK5QF%L4obT`!<>Cc4obig#QP,1zz
+BDFChar: 19 37 10 0 9 -6 13
+zz0E=Xo8H:LG"98]-'*';.7">@>zzz
+BDFChar: 20 38 10 0 9 -6 13
+z!!"\Q8,u0\8,t=D0E=ZE70#XS70#;tzzz
+BDFChar: 21 39 10 0 9 -6 13
+z#QP,1#QP,1zzzzzzz
+BDFChar: 22 40 10 0 9 -6 13
+z!!!'#"98]-#QPD9&-*7A&-*7A&-)t9#QOu-!WW3#z
+BDFChar: 23 41 10 0 9 -6 13
+z!!!Q1#QOu-"98K'!WW9%!WW9%!WW?'"98]-&-)\1z
+BDFChar: 24 42 10 0 9 -6 13
+zz!!!9)8H:4?)uqGg8H9"rzzzz
+BDFChar: 25 43 10 0 9 -6 13
+zz!!!9)#QP,1IfK`S#QP,1zzzz
+BDFChar: 26 44 10 0 9 -6 13
+zzzzzz(]YBQ#QP,10E;(Qz
+BDFChar: 27 45 10 0 9 -6 13
+zzzzIfKHKzzzzz
+BDFChar: 28 46 10 0 9 -6 13
+zzzzzz(]YBQzzz
+BDFChar: 29 47 10 0 9 -6 13
+z!<<-#!WW9%"98Q)#QP,1&-*7A+93Ma5QF%Lzz
+BDFChar: 30 48 10 0 9 -6 13
+zz4odkK6NBOT8H;Tf@/rRn5la(Kzzz
+BDFChar: 31 49 10 0 9 -6 13
+zz#QP\A-icd<#QP,1#QP,1#QT>Szzz
+BDFChar: 32 50 10 0 9 -6 13
+zz4odkK!<<-#!WW?'#QPD9+96lkzzz
+BDFChar: 33 51 10 0 9 -6 13
+zzIfKNM"98]-*WQ3@!<<-#5la(Kzzz
+BDFChar: 34 52 10 0 9 -6 13
+zz!WWE)$31\=+ojq0IfKNM!WW9%zzz
+BDFChar: 35 53 10 0 9 -6 13
+zzIfM_65QF%LIK0BK!<<-#5la(Kzzz
+BDFChar: 36 54 10 0 9 -6 13
+zz)uq)]5QF%LIK2Y65la1N5la(Kzzz
+BDFChar: 37 55 10 0 9 -6 13
+zzIfKKL!WW9%"98Q)#QP,1&-*7Azzz
+BDFChar: 38 56 10 0 9 -6 13
+zz4odkK5la1N4odkK5la1N5la(Kzzz
+BDFChar: 39 57 10 0 9 -6 13
+zz4odkK5la1N5la+L!<<-#!WX2?zzz
+BDFChar: 40 58 10 0 9 -6 13
+zzz(]YBQzz(]YBQzzz
+BDFChar: 41 59 10 0 9 -6 13
+zzz(]YBQzz(]YBQ#QP,10E;(Qz
+BDFChar: 42 60 10 0 9 -6 13
+zz!WW?'#QPD9+92rQ#QOu-!WW3#zzz
+BDFChar: 43 61 10 0 9 -6 13
+zzzIfKHKzIfKHKzzzz
+BDFChar: 44 62 10 0 9 -6 13
+zz+92rQ#QOu-!WW?'#QPD9+92BAzzz
+BDFChar: 45 63 10 0 9 -6 13
+z!!#1_5l^oc!WW?'#QOi)z#QP,1zzz
+BDFChar: 46 64 10 0 9 -6 13
+z*WR>`5_+B8Ne!:CP(8^GP(8MlJ,hh7+93J`zz
+BDFChar: 47 65 10 0 9 -6 13
+zz)uq/_5la1N5lcB75la1N5la1Nzzz
+BDFChar: 48 66 10 0 9 -6 13
+zzIK2Y65la1NIK2Y65la1N5lc?6zzz
+BDFChar: 49 67 10 0 9 -6 13
+zz*rmD`5QF%L5QF%L5QF%L+93J`zzz
+BDFChar: 50 68 10 0 9 -6 13
+zzHiQJ55la1N5la1N5la1N63)B5zzz
+BDFChar: 51 69 10 0 9 -6 13
+zzIfM_65QF%LIK2V55QF%L5QH96zzz
+BDFChar: 52 70 10 0 9 -6 13
+zzIfM_65QF%LIK2V55QF%L5QF%Lzzz
+BDFChar: 53 71 10 0 9 -6 13
+zz*rmD`5QF%L5QF:S5la1N+TNSazzz
+BDFChar: 54 72 10 0 9 -6 13
+zz5la1N5la1NIfMb75la1N5la1Nzzz
+BDFChar: 55 73 10 0 9 -6 13
+zzIfK`S#QP,1#QP,1#QP,1#QT>Szzz
+BDFChar: 56 74 10 0 9 -6 13
+zz!<<-#!<<-#!<<-#!<>Cc5la(Kzzz
+BDFChar: 57 75 10 0 9 -6 13
+zz5la4O6i]aXDuahW8,u$X63':Ozzz
+BDFChar: 58 76 10 0 9 -6 13
+zz5QF%L5QF%L5QF%L5QF%L5QH96zzz
+BDFChar: 59 77 10 0 9 -6 13
+zz5lbBp<<,Sj8H;$V5la1N5la1Nzzz
+BDFChar: 60 78 10 0 9 -6 13
+zz5lb<n;#j/f70#[T5la1N5la1Nzzz
+BDFChar: 61 79 10 0 9 -6 13
+zz*WR>`5_)+M5_)+M5_)+M+TNP`zzz
+BDFChar: 62 80 10 0 9 -6 13
+zzIK2Y65la1N5lc?65QF%L5QF%Lzzz
+BDFChar: 63 81 10 0 9 -6 13
+zz*WR>`5_)+M5_)+M5_)+M+TNP`"98OSzz
+BDFChar: 64 82 10 0 9 -6 13
+zzIK2Y65la1N5lc?68,u$X63':Ozzz
+BDFChar: 65 83 10 0 9 -6 13
+zz56*qK5QDo,(]X[=!WW6$!<@QKzzz
+BDFChar: 66 84 10 0 9 -6 13
+zzs*t@T#QP,1#QP,1#QP,1#QP,1zzz
+BDFChar: 67 85 10 0 9 -6 13
+zz5la1N5la1N5la1N5la1N5la(Kzzz
+BDFChar: 68 86 10 0 9 -6 13
+zz5la1N5la1N+oiee'EAgI#QP,1zzz
+BDFChar: 69 87 10 0 9 -6 13
+zz5la1N5la1N5laIV8H;<^<<-M/zzz
+BDFChar: 70 88 10 0 9 -6 13
+zz5la1N+oi;W#QP,1'EB<W5la1Nzzz
+BDFChar: 71 89 10 0 9 -6 13
+zz5l`)/+oi;W'EAC=#QP,1#QP,1zzz
+BDFChar: 72 90 10 0 9 -6 13
+zzIfKNM"98Q)#QP,1&-*7A+96lkzzz
+BDFChar: 73 91 10 0 9 -6 13
+z!!#1_+93Ma+93Ma+93Ma+93Ma+93Ma+93Ma4obQ_z
+BDFChar: 74 92 10 0 9 -6 13
+z5QF%L+93Ma&-*7A#QP,1"98Q)!WW9%!<<-#zz
+BDFChar: 75 93 10 0 9 -6 13
+z!!#1_!WW9%!WW9%!WW9%!WW9%!WW9%!WW9%4obQ_z
+BDFChar: 76 94 10 0 9 -6 13
+z!!!9)'EB<W5l^lbzzzzzz
+BDFChar: 77 95 10 0 9 -6 13
+zzzzzzzzs1eU7z
+BDFChar: 78 96 10 0 9 -6 13
+z+92rQ#QOu-zzzzzzz
+BDFChar: 79 97 10 0 9 -6 13
+zzz4obT`!<>=a5la1N6NB7Lzzz
+BDFChar: 80 98 10 0 9 -6 13
+z!!#7a5QF%L>QA455la1N5la1N63)B5zzz
+BDFChar: 81 99 10 0 9 -6 13
+zzz*WR>`5QF%L5QF%L+TNP`zzz
+BDFChar: 82 100 10 0 9 -6 13
+z!!!$"!<<-#*rmGa5la1N5la1N,6/_azzz
+BDFChar: 83 101 10 0 9 -6 13
+zzz*WR>`5lcB75QF%L+93J`zzz
+BDFChar: 84 102 10 0 9 -6 13
+z%fd.@&-*7AIfL#[&-*7A&-*7A&-*7Azzz
+BDFChar: 85 103 10 0 9 -6 13
+zzz*.T765la1N+oiS_+94S*5la1N4obQ_z
+BDFChar: 86 104 10 0 9 -6 13
+z!!#7a5QF%L:&n,k@/rRn5la1N5la1Nzzz
+BDFChar: 87 105 10 0 9 -6 13
+z#QP,1zGQ8!L#QP,1#QP,1#QT>Szzz
+BDFChar: 88 106 10 0 9 -6 13
+z"98Q)z49,Ka"98Q)"98Q)"98Q)"98]-Du]k<z
+BDFChar: 89 107 10 0 9 -6 13
+z5QF%L5QF%L63'CR8,uHdBE1F#63':Ozzz
+BDFChar: 90 108 10 0 9 -6 13
+z!!%6D#QP,1#QP,1#QP,1#QP,1#QP)0zzz
+BDFChar: 91 109 10 0 9 -6 13
+zzzZN/4"Lk(;3Lk(;3Lk(;3zzz
+BDFChar: 92 110 10 0 9 -6 13
+zzz:&n,k@/rRn5la1N5la1Nzzz
+BDFChar: 93 111 10 0 9 -6 13
+zzz)uq/_5la1N5la1N+oiS_zzz
+BDFChar: 94 112 10 0 9 -6 13
+zzz>QA455la1N5la1N63)B55QF%L5QCcaz
+BDFChar: 95 113 10 0 9 -6 13
+zzz*rmGa5la1N5la1N,6/_a!<<-#!<<*"z
+BDFChar: 96 114 10 0 9 -6 13
+zzz:&n,k?iWFl5QF%L5QF%Lzzz
+BDFChar: 97 115 10 0 9 -6 13
+zzz56*qK+935Y"98K'!<@QKzzz
+BDFChar: 98 116 10 0 9 -6 13
+zz&-*7AIfL#[&-*7A&-*7A&-*4@zzz
+BDFChar: 99 117 10 0 9 -6 13
+zzz5la1N5la1N5la7P70#=Jzzz
+BDFChar: 100 118 10 0 9 -6 13
+zzz5la1N+oiee'EAgI#QP,1zzz
+BDFChar: 101 119 10 0 9 -6 13
+zzzJ:N0#Lk(;3Lk(;3Lk'[Lzzz
+BDFChar: 102 120 10 0 9 -6 13
+zzz5_(!X&c`=?$ign?+TOcXzzz
+BDFChar: 103 121 10 0 9 -6 13
+zzz5la1N5la1N5l`,0*<6*?!<<0$49,?]z
+BDFChar: 104 122 10 0 9 -6 13
+zzzIfKNM"98]-&-*gQ5QH96zzz
+BDFChar: 105 123 10 0 9 -6 13
+z"+ULS"98Q)"98Q)#QSfD#QOu-"98Q)"98Q)"+U@Oz
+BDFChar: 106 124 10 0 9 -6 13
+z!!!9)#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1zz
+BDFChar: 107 125 10 0 9 -6 13
+zDu^.D#QP,1#QP,1"98OS"98]-#QP,1#QP,1Du]k<z
+BDFChar: 108 126 10 0 9 -6 13
+z!!"^'8:X*Y6N@)dzzzzzz
+BDFChar: 109 160 10 0 9 -6 13
+zzzzzzzzzz
+BDFChar: 110 161 10 0 9 -6 13
+zzz#QP,1z!!!9)#QP,1#QP,1#QOi)z
+BDFChar: 111 162 10 0 9 -6 13
+z!!!9)#QPnG.0)m=8,u0\8,t(=*WQHG#QOi)zz
+BDFChar: 112 163 10 0 9 -6 13
+zz%KI(@&-*7AIK0oZ&-*7A3<2MKzzz
+BDFChar: 113 164 10 0 9 -6 13
+zz5X6rP&HEr(+FkSb&HFG65X5;Lzzz
+BDFChar: 114 165 10 0 9 -6 13
+zz5l`)/'EAC=4obig#QR$g#QP,1zzz
+BDFChar: 115 166 10 0 9 -6 13
+z!!!9)#QP,1#QP,1z!!!9)#QP,1#QP,1zz
+BDFChar: 116 168 10 0 9 -6 13
+z+oieezzzzzzzz
+BDFChar: 117 169 10 0 9 -6 13
+zz!!#1_5lcjoOFWFCOFW:?5la(Kzzz
+BDFChar: 118 171 10 0 9 -6 13
+zzz!!!:T&HF!T6i\D2&HE)ezzz
+BDFChar: 119 173 10 0 9 -6 13
+zzzzIfKHKzzzzz
+BDFChar: 120 176 10 0 9 -6 13
+zz)uq/_+oiee)uos=zzzzz
+BDFChar: 121 180 10 0 9 -6 13
+z"98]-&-*gQzzzzzzz
+BDFChar: 122 184 10 0 9 -6 13
+zzzzzzz"98Q)"998=z
+BDFChar: 123 187 10 0 9 -6 13
+zzz!!#Ce+oi2T#_3Ke+ok"2zzz
+BDFChar: 124 191 10 0 9 -6 13
+zzz#QP,1z!!!9)&-*gQ5QF(M4obQ_z
+BDFChar: 125 192 10 0 9 -6 13
++92rQ#QOi)#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 126 193 10 0 9 -6 13
+!WW?'#QOi)#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 127 194 10 0 9 -6 13
+#QPP=+ohTC#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 128 195 10 0 9 -6 13
+0`XcF7K<Dg#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 129 196 10 0 9 -6 13
+!!"2C+ohTC#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 130 197 10 0 9 -6 13
+!!!9)'EAgI#QP,1'EAgI+oiee4odkK5la1Nzzz
+BDFChar: 131 198 10 0 9 -6 13
+zz%tG&g'EAgI-\*HB49.bL6i]`-zzz
+BDFChar: 132 199 10 0 9 -6 13
+zz*rmD`5QF%L5QF%L5QF%L+93J`"98Q)"998=z
+BDFChar: 133 200 10 0 9 -6 13
++92rQ#QOi)IfM_65QF%LIK2V55QF%L5QH96zzz
+BDFChar: 134 201 10 0 9 -6 13
+!WW?'#QOi)IfM_65QF%LIK2V55QF%L5QH96zzz
+BDFChar: 135 202 10 0 9 -6 13
+#QPP=+ohTCIfM_65QF%LIK2V55QF%L5QH96zzz
+BDFChar: 136 203 10 0 9 -6 13
+!!"2C+ohTCIfM_65QF%LIK2V55QF%L5QH96zzz
+BDFChar: 137 204 10 0 9 -6 13
++92rQ#QOi)IfK`S#QP,1#QP,1#QP,1#QT>Szzz
+BDFChar: 138 205 10 0 9 -6 13
+!WW?'#QOi)IfK`S#QP,1#QP,1#QP,1#QT>Szzz
+BDFChar: 139 206 10 0 9 -6 13
+#QPP=+ohTCIfK`S#QP,1#QP,1#QP,1#QT>Szzz
+BDFChar: 140 207 10 0 9 -6 13
+!!"2C+ohTCIfK`S#QP,1#QP,1#QP,1#QT>Szzz
+BDFChar: 141 208 10 0 9 -6 13
+zz4oc`++FkSbG^poe+FkSb+TO\+zzz
+BDFChar: 142 209 10 0 9 -6 13
+0`XcF7K<Dg5lb<n;#j/f70#[T5la1N5la1Nzzz
+BDFChar: 143 210 10 0 9 -6 13
++92rQ#QOi))uq/_5la1N5la1N5la1N+oiS_zzz
+BDFChar: 144 211 10 0 9 -6 13
+!WW?'#QOi))uq/_5la1N5la1N5la1N+oiS_zzz
+BDFChar: 145 212 10 0 9 -6 13
+#QPP=+ohTC)uq/_5la1N5la1N5la1N+oiS_zzz
+BDFChar: 146 213 10 0 9 -6 13
+0`XcF7K<Dg)uq/_5la1N5la1N5la1N+oiS_zzz
+BDFChar: 147 214 10 0 9 -6 13
++oieez)uq/_5la1N5la1N5la1N+oiS_zzz
+BDFChar: 148 215 10 0 9 -6 13
+zzz!!"/B&c`=?$ign?+TMKBzzz
+BDFChar: 149 216 10 0 9 -6 13
+z!!!'#*WRAa70#aV8H;<^;#jGn+oj_*+92BAzz
+BDFChar: 150 217 10 0 9 -6 13
++92rQ#QOi)5la1N5la1N5la1N5la1N+oiS_zzz
+BDFChar: 151 218 10 0 9 -6 13
+!WW?'#QOi)5la1N5la1N5la1N5la1N+oiS_zzz
+BDFChar: 152 219 10 0 9 -6 13
+#QPP=+ohTC5la1N5la1N5la1N5la1N+oiS_zzz
+BDFChar: 153 220 10 0 9 -6 13
+!!"2C+ohTC5la1N5la1N5la1N5la1N+oiS_zzz
+BDFChar: 154 221 10 0 9 -6 13
+!WW?'#QOi)5l`)/+oi;W'EAC=#QP,1#QP,1zzz
+BDFChar: 155 222 10 0 9 -6 13
+zz5QF%LIK2Y65la1N5lc?65QF%Lzzz
+BDFChar: 156 223 10 0 9 -6 13
+zz*WR>`5la4O7K>^S5la1N63'[Zzzz
+BDFChar: 157 224 10 0 9 -6 13
+!!",A&-)t9z4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 158 225 10 0 9 -6 13
+!!!'#"98]-z4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 159 226 10 0 9 -6 13
+!!!9)'EB<Wz4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 160 227 10 0 9 -6 13
+!!"_R8H;3[z4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 161 228 10 0 9 -6 13
+z+oieez4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 162 229 10 0 9 -6 13
+!!!E-&c`OE$ig8-4obT`!<>=a5la1N5la+Lzzz
+BDFChar: 163 230 10 0 9 -6 13
+zzzG5qo!#_7DTL]E52L]DXLzzz
+BDFChar: 164 231 10 0 9 -6 13
+zzz4odkK5QF%L5QF%L5la(K"98Q)"998=z
+BDFChar: 165 232 10 0 9 -6 13
+!!",A&-)t9z4odkK5lcB75QF%L5QF"Kzzz
+BDFChar: 166 233 10 0 9 -6 13
+!!!$"!WW?'z4odkK5lcB75QF%L5QF"Kzzz
+BDFChar: 167 234 10 0 9 -6 13
+!!!9)'EB<Wz4odkK5lcB75QF%L5QF"Kzzz
+BDFChar: 168 235 10 0 9 -6 13
+z+oieez4odkK5lcB75QF%L5QF"Kzzz
+BDFChar: 169 236 10 0 9 -6 13
+!!",A&-)t9zGQ8!L#QP,1#QP,1#QT>Szzz
+BDFChar: 170 237 10 0 9 -6 13
+!!!'#"98]-zGQ8!L#QP,1#QP,1#QT>Szzz
+BDFChar: 171 238 10 0 9 -6 13
+!!!9)'EB<WzGQ8!L#QP,1#QP,1#QT>Szzz
+BDFChar: 172 239 10 0 9 -6 13
+z+oieezGQ8!L#QP,1#QP,1#QT>Szzz
+BDFChar: 173 240 10 0 9 -6 13
+z#lk/0)?9d<*<7;a5la1N5la1N+oiS_zzz
+BDFChar: 174 241 10 0 9 -6 13
+!!"_R8H;3[zIK2Y65la1N5la1N5la1Nzzz
+BDFChar: 175 242 10 0 9 -6 13
+!!",A&-)t9z4odkK5la1N5la1N5la(Kzzz
+BDFChar: 176 243 10 0 9 -6 13
+!!!'#"98]-z4odkK5la1N5la1N5la(Kzzz
+BDFChar: 177 244 10 0 9 -6 13
+!!!9)'EB<Wz4odkK5la1N5la1N5la(Kzzz
+BDFChar: 178 245 10 0 9 -6 13
+!!"_R8H;3[z4odkK5la1N5la1N5la(Kzzz
+BDFChar: 179 246 10 0 9 -6 13
+z+oieez4odkK5la1N5la1N5la(Kzzz
+BDFChar: 180 247 10 0 9 -6 13
+zz#QP,1zIfKHK!!!9)#QOi)zzz
+BDFChar: 181 248 10 0 9 -6 13
+zz!!!'#4oe"O70#mZ8H;Tf;#ic[+92BAzz
+BDFChar: 182 249 10 0 9 -6 13
+!!",A&-)t9z5la1N5la1N5la1N5la+Lzzz
+BDFChar: 183 250 10 0 9 -6 13
+!!!'#"98]-z5la1N5la1N5la1N5la+Lzzz
+BDFChar: 184 251 10 0 9 -6 13
+!!!9)'EB<Wz5la1N5la1N5la1N5la+Lzzz
+BDFChar: 185 252 10 0 9 -6 13
+z+oieez5la1N5la1N5la1N5la+Lzzz
+BDFChar: 186 253 10 0 9 -6 13
+!!!'#"98]-z5la1N5la1N5la1N5la+L!<<-#!<>:`z
+BDFChar: 187 254 10 0 9 -6 13
+z!!#7a5QF%L>QA455la1N5la1N@K9X55QF%L5QCcaz
+BDFChar: 188 255 10 0 9 -6 13
+z+oieez5la1N5la1N5la1N5la+L!<<-#!<>:`z
+BDFChar: 189 0 10 0 9 -6 13
+zzzIK2\763'=P63'=P63)H7zzz
+EndBitmapFont
+EndSplineFont

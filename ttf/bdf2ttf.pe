@@ -1,0 +1,12 @@
+New()
+Print("open:" + $2)
+Open($2)
+i=3
+while ( i<$argc )
+  Print("import:" + $argv[i])
+  Import($argv[i], 0)
+  i=i+1
+endloop
+Print("write:" + $1)
+Save($1:r + ".sfd")
+Generate($1, "ttf")
