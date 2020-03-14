@@ -1,3 +1,8 @@
+Luigi's Fork
+===========
+
+I changed the .ttf versions to be more Mac friendly by including the size in the name to avoid collisions. Use the ttf files in the [ttf/ttx](ttf/ttx) folder.
+
 Tamzen font
 ===========
 
